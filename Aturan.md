@@ -249,61 +249,9 @@ a)	apakah ada sedikit atau banyak pesaing;
 b)	apakah skala usaha mereka kecil atau besar; 
 c)	apakah produk mereka serupa atau tidak satu sama lain; 
 d)	apakah produk mereka serupa atau tidak dengan produk Anda.
-Tabel Panduan keputusan berikut  dapat digunakan untuk membantu dalam membuat suatu perkiraan penguasaan pangsa pasar Anda.
+Tabel Panduan keputusan berikut dapat digunakan untuk membantu dalam membuat suatu perkiraan penguasaan pangsa pasar Anda.
 
-TABEL PANDUAN KEPUTUSAN
-Jumlah Pesaing	Ukuran Mereka*	Kekhususan produk Mereka	Penguasaan pasar (dalam%)
-Banyak
-Sedikit
-Satu
-Banyak
-Sedikit
-Banyak
-Sedikit
-Banyak
-Satu
-Sedikit
-Satu
-Satu
-Tanpa pesaing	besar
-besar
-besar
-besar
-besar
-kecil
-kecil
-kecil
-besar
-kecil
-kecil
-kecil
-	serupa
-serupa
-serupa
-berlainan
-berlainan
-serupa
-serupa
-berlainan
-berlainan
-berlainan
-serupa
-berlainan
-	0- 2,5
-0- 2,5
-0- 5
-0- 5
-5- 10
-5- 10
-10- 15
-10- 15
-10- 15
-20- 30
-20- 50
-40- 80
-100
-
-* Diasumsikan bahwa bisnis Anda masuk kategori "usaha kecil" ketika memasuki pasar itu.
+Lihat tabel lengkap pada: [Tabel Panduan Keputusan](Tabel-Panduan-Keputusan.md)
 
 1.8 Berapa banyak produk yang akan dijual?
 Setelah Anda dapat memperkirakan penguasaan pangsa pasar yang secara realistis dapat diraih, Anda dapat membuat suatu perkiraan target penjualan (peramalan penjualan) setiap bulan untuk tahun pertama dan tahunan untuk lima tahun berikutnya. Peramalan penjualan tahun pertama biasanya hanya sebagian dari perkiraan penguasaan pangsa pasar, yaitu sekitar 60 sampai 80% dari perkiraan penguasaan pangsa pasar permulaan. Hal ini akan memberi beberapa kesalahan didalam menaksir pasar itu.
