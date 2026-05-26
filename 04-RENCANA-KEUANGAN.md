@@ -2,7 +2,7 @@
 
 ---
 
-## 4.1 KEBUTUHAN MODAL USAHA
+## 4.1 KEBUTUHAN MODAL
 
 ### Total Kebutuhan Investasi Awal
 
@@ -50,7 +50,7 @@
 
 ---
 
-## 4.2 SUMBER PEMBIAYAAN
+## 4.2 SUMBER MODAL
 
 ### Struktur Pembiayaan
 
@@ -84,7 +84,7 @@
 
 ---
 
-## 4.3 ASUMSI KEUANGAN
+## 4.3 HPP PRODUK
 
 ### Asumsi Dasar Proyeksi
 
@@ -108,7 +108,7 @@
 
 ---
 
-## 4.4 PROYEKSI LABA-RUGI 5 TAHUN
+## 4.4 PROYEKSI PENJUALAN
 
 ### Income Statement Projection
 
@@ -178,7 +178,7 @@ Untuk mencapai target ROI 28-32%, berikut skenario yang disesuaikan:
 
 ---
 
-## 4.5 PROYEKSI ARUS KAS 5 TAHUN
+## 4.5 PROYEKSI LABA RUGI 5 TAHUN
 
 ### Cash Flow Projection (Indirect Method)
 
@@ -231,7 +231,7 @@ flowchart LR
 
 ---
 
-## 4.6 NERACA TAHUNAN
+## 4.6 PROYEKSI ARUS KAS 5 TAHUN
 
 ### Projected Balance Sheet
 
@@ -271,7 +271,7 @@ flowchart LR
 
 ---
 
-## 4.7 ANALISIS BREAK-EVEN POINT (BEP)
+## 4.7 NERACA 5 TAHUN
 
 ### Perhitungan BEP
 
@@ -336,7 +336,7 @@ $$BEP_{\%} = \frac{BEP_{unit}}{Capacity} \times 100\% = \frac{333}{600} \times 1
 
 ---
 
-## 4.8 RETURN ON INVESTMENT (ROI)
+## 4.8 ANALISIS BEP
 
 ### Perhitungan ROI
 
@@ -390,7 +390,7 @@ $$BEP_{\%} = \frac{BEP_{unit}}{Capacity} \times 100\% = \frac{333}{600} \times 1
 
 ---
 
-## 4.9 RASIO KEUANGAN
+## 4.9 ANALISIS RASIO KEUANGAN
 
 ### Rasio Likuiditas
 
@@ -427,7 +427,7 @@ $$BEP_{\%} = \frac{BEP_{unit}}{Capacity} \times 100\% = \frac{333}{600} \times 1
 
 ---
 
-## 4.10 ANALISIS KELAYAKAN
+## 4.10 ANALISIS KELAYAKAN INVESTASI
 
 ### Kesimpulan Kelayakan Investasi
 

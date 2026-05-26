@@ -2,144 +2,111 @@
 
 ---
 
-## 1.1 TUJUAN PEMASARAN
+## 1.1 GAMBARAN PASAR
 
-| **Tujuan** | **Deskripsi** | **Target** |
-|------------|---------------|------------|
-| Brand Awareness | Memperkenalkan EduKit IoT ke pasar pendidikan | 80% awareness di kalangan mahasiswa teknik |
-| Market Share | Menguasai pasar edukasiiot lokal | 15% market share tahun pertama |
-| Customer Loyalty | Membangun komunitas pengguna setia | 500+ anggota komunitas aktif |
-| Revenue Target | Mencapai target penjualan tahunan | 600 unit Tahun 1 |
+### Deskripsi Pasar EduKit IoT
+
+Pasar perangkat edukasi embedded system dan IoT di Indonesia menunjukkan pertumbuhan yang signifikan seiring dengan meningkatnya demand terhadap keterampilan teknologi di bidang Internet of Things, robotika, dan sistem tertanam.
+
+| **Indikator** | **Deskripsi** |
+|---------------|---------------|
+| Ukuran Pasar | 100.000+ mahasiswa teknik di Indonesia |
+| Pertumbuhan | 15-20% per tahun |
+| Trend | Meningkatnya adopsi IoT di pendidikan |
+| Peluang | Kebutuhan alat praktikum terjangkau |
 
 ---
 
-## 1.2 ANALISIS PASAR SASARAN
+## 1.2 SEGMENTASI PASAR
 
-### Segmen Pasar
+### Tabel Segmentasi
 
 | **Segmen** | **Karakteristik** | **Ukuran** | **Potensi** |
 |------------|-------------------|------------|-------------|
-| Mahasiswa Teknik | Usia 18-24, aktif praktikum | 50.000/thn | Tinggi |
+| Mahasiswa Teknik | Usia 18-24, aktif praktikum, D3/S1 | 50.000/thn | Tinggi |
 | Siswa SMK | Jurusan TKJ/Teknik Elektro | 30.000/thn | Sedang-Tinggi |
 | Hobbyist/DIY | Maker, electronics enthusiast | 20.000 | Sedang |
-| Institusi Pendidikan | Lab kampus, sekolah | 500 institusi | Tinggi |
+| Institusi Pendidikan | Lab kampus, sekolah vokasi | 500 institusi | Tinggi |
 
-### Target Market Utama
+---
+
+## 1.3 TARGET PASAR
+
+### Target Utama Tahun 1
+
+| **Segment** | **Target Unit** | **Persentase** | **Revenue Target** |
+|-------------|-----------------|----------------|-------------------|
+| Mahasiswa Teknik | 300 unit | 50% | Rp 82.500.000 |
+| Siswa SMK | 150 unit | 25% | Rp 41.250.000 |
+| Hobbyist/DIY | 90 unit | 15% | Rp 24.750.000 |
+| Institusi Pendidikan | 60 unit | 10% | Rp 16.500.000 |
+| **Total** | **600 unit** | **100%** | **Rp 165.000.000** |
+
+---
+
+## 1.4 POSITIONING
+
+### Positioning Statement
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                    TARGET MARKET PYRAMID                    │
+│                    POSITIONING MAP                          │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
-│              /\                                               │
-│             /  \  Institusi Pendidikan (B2B)                │
-│            /____\  - Lab Kampus                              │
-│           /      \ - Sekolah SMK                             │
-│          /________\                                          │
-│         /          \                                         │
-│        /            \  Mahasiswa & Siswa (B2C)              │
-│       /______________\ - Praktikum                           │
-│      /                \- Tugas Akhir                         │
-│     /__________________\                                     │
-│    /                  \                                      │
-│   /____________________\ Hobbyist & Maker                    │
-│                                                               │
+│  Harga Tinggi                                               │
+│       │                                                     │
+│       │   ● Grove           ● SunFounder                   │
+│       │     (Import)          (Import)                     │
+│       │                                                     │
+│       │                                                     │
+│       │                        ● Keyestudio                │
+│       │                                                     │
+│       │                                    ● EduKit IoT    │
+│       │                                      (Local)       │
+│       │                                                     │
+│       │   ● AliExpress Generic                             │
+│       │     (No Support)                                   │
+│       └─────────────────────────────────────────────────────│
+│       Rendah              Kualitas              Tinggi      │
+│                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
+**Positioning EduKit IoT:** "Platform pembelajaran modular berkualitas tinggi dengan harga terjangkau dan dukungan lokal penuh."
+
 ---
 
-## 1.3 ANALISIS KOMPETITOR
+## 1.5 ANALISIS KOMPETITOR
 
 ### Tabel Perbandingan Kompetitor
 
-| **Fitur** | **EduKit IoT** | **Grove Starter Kit** | **SunFounder** | **AliExpress Generic** |
-|-----------|----------------|----------------------|----------------|------------------------|
-| **Harga** | Rp 275.000 | Rp 850.000 | Rp 650.000 | Rp 150.000 |
-| **Sistem Koneksi** | Jumper (no solder) | Connector Grove | Connector khusus | Breadboard |
-| **Kompatibilitas** | ESP32/Arduino | Arduino | Raspberry Pi | Beragam |
-| **Bahasa Panduan** | Indonesia | Inggris | Inggris | Cina/Inggris |
-| **Garansi** | 1 tahun | 6 bulan | 6 bulan | Tidak ada |
-| **Support Lokal** | ✅ Full | ❌ Importir | ❌ Importir | ❌ None |
-| **Modul Pembelajaran** | ✅ Terstruktur | ⚠️ Terbatas | ⚠️ Terbatas | ❌ None |
-| **Lead Time** | Ready stock | 7-14 hari | 7-14 hari | 14-30 hari |
+| **Fitur** | **EduKit IoT** | **Grove (Seeed)** | **DFRobot** | **SunFounder** | **Keyestudio** |
+|-----------|----------------|-------------------|-------------|----------------|----------------|
+| **Harga** | Rp 275.000 | Rp 850.000+ | Rp 750.000+ | Rp 650.000+ | Rp 550.000+ |
+| **Sistem Koneksi** | Jumper (no solder) | Connector Grove | Connector khusus | Connector khusus | Breadboard |
+| **Kompatibilitas** | ESP32/Arduino | Arduino | Arduino | Raspberry Pi | Arduino |
+| **Dokumentasi** | Bilingual (ID/EN) | Inggris | Inggris | Inggris | Inggris/Cina |
+| **Support Lokal** | ✅ Full (WhatsApp) | ❌ Importir | ❌ Importir | ❌ Importir | ❌ Importir |
+| **Garansi** | 1 tahun | 6 bulan | 6 bulan | 6 bulan | 3 bulan |
+| **Lead Time** | Ready stock | 7-14 hari | 7-14 hari | 7-14 hari | 14-30 hari |
+| **Modul Pembelajaran** | ✅ Terstruktur | ⚠️ Terbatas | ⚠️ Terbatas | ⚠️ Terbatas | ❌ None |
+| **Keunggulan EduKit** | Harga 68% lebih murah, support lokal, dokumentasi bilingual | Brand global, ekosistem luas | Variasi produk banyak | Lengkap dengan display | Harga kompetitif |
 
-### Keunggulan Kompetitif EduKit IoT
-
-```mermaid
-graph LR
-    A[EduKit IoT] --> B[Harga Terjangkau]
-    A --> C[Bahasa Indonesia]
-    A --> D[Support Lokal]
-    A --> E[No Solder Design]
-    A --> F[Kurikulum Terstruktur]
-    
-    B --> G[68% lebih murah dari Grove]
-    C --> H[Mudah dipahami]
-    D --> I[Respon cepat via WhatsApp]
-    E --> J[Aman untuk pemula]
-    F --> K[Langkah demi langkah]
-```
-
----
-
-## 1.4 STRATEGI PEMASARAN (MARKETING MIX 4P)
-
-### Product (Produk)
-
-| **Aspek** | **Detail** |
-|-----------|------------|
-| Nama Produk | EduKit IoT v1.0 |
-| Varian | Basic, Advanced, Pro Bundle |
-| Fitur Utama | ESP32, 10 sensor, jumper system |
-| Packaging | Box premium dengan foam insert |
-| Aksesoris | Kabel USB, jumper wire, panduan |
-
-### Price (Harga)
-
-| **Varian** | **Harga Jual** | **HPP** | **Margin** | **Target Customer** |
-|------------|----------------|---------|------------|---------------------|
-| Basic | Rp 275.000 | Rp 185.000 | 32.7% | Mahasiswa/Siswa |
-| Advanced | Rp 425.000 | Rp 290.000 | 31.8% | Hobbyist/Maker |
-| Pro Bundle | Rp 650.000 | Rp 450.000 | 30.8% | Institusi/Lab |
-
-### Place (Distribusi)
-
-| **Channel** | **Coverage** | **Biaya** | **Estimasi Penjualan** |
-|-------------|--------------|-----------|------------------------|
-| Website Official | Nasional | 5% dari penjualan | 40% total |
-| Marketplace (Tokopedia/Shopee) | Nasional | 8-10% komisi | 35% total |
-| Reseller/Kampus | Regional | 15% margin reseller | 15% total |
-| Direct Sales (Institusi) | Jabodetabek | 5% sales cost | 10% total |
-
-### Promotion (Promosi)
-
-| **Media** | **Frekuensi** | **Budget/Bulan** | **Reach Estimasi** |
-|-----------|---------------|------------------|---------------------|
-| Instagram Ads | Daily | Rp 1.500.000 | 50.000 impressions |
-| Facebook Ads | 3x/minggu | Rp 1.000.000 | 30.000 impressions |
-| YouTube Tutorial | 2x/bulan | Rp 500.000 | 10.000 views |
-| Influencer Tech | 1x/bulan | Rp 1.000.000 | 20.000 reach |
-| Campus Event | 2x/bulan | Rp 1.500.000 | 500 direct contact |
-| **Total** | | **Rp 5.500.000** | **110.500+ reach** |
-
----
-
-## 1.5 CUSTOMER JOURNEY
+### Customer Journey
 
 ```mermaid
-flowchart TD
+flowchart LR
     A[🔍 Awareness] --> B[💡 Interest]
     B --> C[📊 Evaluation]
     C --> D[💳 Purchase]
     D --> E[📦 Delivery]
     E --> F[🎯 Usage]
     F --> G[⭐ Review]
-    G --> H[🔄 Repurchase/Referral]
+    G --> H[🔄 Advocacy]
     
     subgraph "Marketing Touchpoints"
-        A1[Social Media Ads]
-        A2[Content Marketing]
+        A1[Social Media]
+        A2[Campus Event]
         A3[Word of Mouth]
     end
     
@@ -150,9 +117,9 @@ flowchart TD
     end
     
     subgraph "Post-Purchase"
-        F1[Tutorial Video]
-        F2[Community Group]
-        F3[Technical Support]
+        F1[Tutorial]
+        F2[Community]
+        F3[Support]
     end
     
     A1 --> A
@@ -168,7 +135,80 @@ flowchart TD
 
 ---
 
-## 1.6 SALES FUNNEL
+## 1.6 STRATEGI PRODUK
+
+### Product Strategy
+
+| **Aspek** | **Detail** |
+|-----------|------------|
+| Nama Produk | EduKit IoT v1.0 |
+| Varian | Basic Kit, Advanced Kit, Pro Bundle |
+| Fitur Utama | ESP32, 10 sensor, jumper system, case |
+| Packaging | Box premium dengan foam insert |
+| Aksesoris | Kabel USB, jumper wire, panduan bilingual |
+| Dokumentasi | User manual, tutorial video, GitHub repository |
+
+---
+
+## 1.7 STRATEGI HARGA
+
+### Pricing Structure
+
+| **Varian** | **Harga Jual** | **HPP** | **Margin** | **Target Customer** |
+|------------|----------------|---------|------------|---------------------|
+| Basic Kit | Rp 275.000 | Rp 185.000 | 32.7% | Mahasiswa/Siswa |
+| Advanced Kit | Rp 425.000 | Rp 290.000 | 31.8% | Hobbyist/Maker |
+| Pro Bundle | Rp 650.000 | Rp 450.000 | 30.8% | Institusi/Lab |
+
+### Strategi Penetapan Harga
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                    PRICE STRUCTURE                          │
+├─────────────────────────────────────────────────────────────┤
+│  Harga List              : Rp 275.000                       │
+│  (-) Diskon Early Bird   : Rp  25.000 (9.1%)               │
+│  (-) Bundle Discount     : Rp  15.000 (5.5%)               │
+│  (-) Promo Marketplace   : Rp  10.000 (3.6%)               │
+├─────────────────────────────────────────────────────────────┤
+│  Net Price Average       : Rp 225.000                       │
+│  HPP                     : Rp 185.000                       │
+├─────────────────────────────────────────────────────────────┤
+│  Net Margin              : Rp  40.000 (21.6%)              │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 1.8 STRATEGI DISTRIBUSI
+
+### Distribution Channels
+
+| **Channel** | **Coverage** | **Biaya** | **Estimasi Penjualan** |
+|-------------|--------------|-----------|------------------------|
+| Website Official | Nasional | 5% dari penjualan | 40% total |
+| Marketplace (Tokopedia/Shopee) | Nasional | 8-10% komisi | 35% total |
+| Reseller/Kampus | Regional | 15% margin reseller | 15% total |
+| Direct Sales (Institusi) | Malang & Jatim | 5% sales cost | 10% total |
+
+---
+
+## 1.9 STRATEGI PROMOSI
+
+### Promotion Mix
+
+| **Media** | **Frekuensi** | **Budget/Bulan** | **Reach Estimasi** |
+|-----------|---------------|------------------|---------------------|
+| Instagram Ads | Daily | Rp 1.500.000 | 50.000 impressions |
+| Facebook Ads | 3x/minggu | Rp 1.000.000 | 30.000 impressions |
+| YouTube Tutorial | 2x/bulan | Rp 500.000 | 10.000 views |
+| Influencer Tech | 1x/bulan | Rp 1.000.000 | 20.000 reach |
+| Campus Event | 2x/bulan | Rp 1.500.000 | 500 direct contact |
+| **Total** | | **Rp 5.500.000** | **110.500+ reach** |
+
+---
+
+## 1.10 SALES FUNNEL
 
 ```mermaid
 funnel
@@ -183,7 +223,7 @@ funnel
 
 ---
 
-## 1.7 RAMALAN PENJUALAN 5 TAHUN
+## 1.11 RAMALAN PENJUALAN 5 TAHUN
 
 ### Proyeksi Volume Penjualan
 
@@ -223,38 +263,7 @@ Tahun 5  [███████████████████████�
 
 ---
 
-## 1.8 STRATEGI HARGA
-
-### Pricing Strategy
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                    PRICE WATERFALL                          │
-├─────────────────────────────────────────────────────────────┤
-│  Harga List              : Rp 275.000                       │
-│  (-) Diskon Early Bird   : Rp  25.000 (9.1%)               │
-│  (-) Bundle Discount     : Rp  15.000 (5.5%)               │
-│  (-) Promo Marketplace   : Rp  10.000 (3.6%)               │
-├─────────────────────────────────────────────────────────────┤
-│  Net Price Average       : Rp 225.000                       │
-│  HPP                     : Rp 185.000                       │
-├─────────────────────────────────────────────────────────────┤
-│  Net Margin              : Rp  40.000 (21.6%)              │
-└─────────────────────────────────────────────────────────────┘
-```
-
-### Strategi Diskon
-
-| **Jenis Diskon** | **Besaran** | **Kondisi** | **Target** |
-|------------------|-------------|-------------|------------|
-| Early Bird | 10% | Pre-order batch 1 | Cash flow awal |
-| Bundle 2 pcs | 15% | Pembelian 2 unit | Volume boost |
-| Campus Partner | 20% | Minimal 10 unit | B2B acquisition |
-| Loyalty Program | 5% | Repeat customer | Retention |
-
----
-
-## 1.9 ANGGARAN PROMOSI
+## 1.12 ANGGARAN PROMOSI
 
 ### Rincian Budget Promosi Tahun 1
 
@@ -278,75 +287,4 @@ Tahun 5  [███████████████████████�
 
 ---
 
-## 1.10 KEBIJAKAN DISTRIBUTOR & RESELLER
-
-### Struktur Reseller
-
-| **Level** | **Discount** | **Min Order** | **Benefit** |
-|-----------|--------------|---------------|-------------|
-| Silver | 10% | 5 unit | Priority support |
-| Gold | 15% | 20 unit | Marketing material + co-branding |
-| Platinum | 20% | 50 unit | Exclusive territory + training |
-
-### Syarat Partnership Kampus
-
-```mermaid
-graph TD
-    A[Proposal Submission] --> B{Eligibility Check}
-    B -->|Pass| C[MOU Signing]
-    B -->|Fail| D[Feedback & Revise]
-    D --> A
-    C --> E[Training Session]
-    E --> F[Starter Kit Delivery]
-    F --> G[Joint Promotion]
-    G --> H[Monthly Review]
-```
-
----
-
-## 1.11 METRIK KINERJA PEMASARAN
-
-### KPI Dashboard
-
-| **KPI** | **Target Bulan 1** | **Target Bulan 6** | **Target Bulan 12** |
-|---------|--------------------|--------------------|---------------------|
-| Website Traffic | 1.000 visits | 5.000 visits | 15.000 visits |
-| Social Media Followers | 500 | 3.000 | 10.000 |
-| Email Subscribers | 100 | 1.000 | 5.000 |
-| Conversion Rate | 1.5% | 2.5% | 3.5% |
-| Customer Satisfaction | 4.0/5 | 4.3/5 | 4.5/5 |
-| Repeat Purchase Rate | 5% | 15% | 25% |
-
----
-
-## 1.12 STRATEGI RETENSI PELANGGAN
-
-### Customer Retention Program
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                 CUSTOMER LIFECYCLE PROGRAM                  │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  🎯 Onboarding → 📚 Learning → 👥 Community → 🏆 Rewards   │
-│                                                             │
-│  • Welcome Email     • Tutorial Access   • Forum Access    │
-│  • Setup Guide       • Project Ideas     • Badge System    │
-│  • Video Series      • Challenge Monthly • Discount Points │
-│  • FAQ Database      • Showcase Gallery  • Referral Bonus  │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-### Program Loyalitas
-
-| **Tier** | **Syarat** | **Benefit** |
-|----------|------------|-------------|
-| Bronze | 1 pembelian | Akses community, newsletter |
-| Silver | 3 pembelian | 5% discount, early access |
-| Gold | 5 pembelian | 10% discount, free shipping, priority support |
-| Platinum | 10 pembelian | 15% discount, exclusive products, ambassador program |
-
----
-
-*© 2025 EduKit IoT - Rencana Pemasaran*
+*© 2025 EduKit IoT - M Faris Asroru Ghifary - Rencana Pemasaran*

@@ -8,7 +8,7 @@
  |_____|_| \_|_|    \____|\__, |_|_|_____|
                           |___/          
   Internet of Things Learning Kit
-  "Belajar IoT Tanpa Ribet, Cukup Colok & Coding!"
+  "Modular Learning Platform for Embedded Systems"
 ```
 
 ---
@@ -18,13 +18,16 @@
 | **Item** | **Detail** |
 |----------|------------|
 | **Nama Usaha** | EduKit IoT |
-| **Tagline** | Solusi Pembelajaran IoT All-in-One |
-| **Pemilik** | [Nama Pengusaha] |
-| **Alamat** | Jl. Teknologi No. 123, Jakarta Selatan, DKI Jakarta |
-| **Email** | info@edukit-iot.id |
-| **Telepon** | +62 812-3456-7890 |
-| **Website** | www.edukit-iot.id |
-| **Status** | ✅ Siap Produksi |
+| **Tagline** | Modular Learning Platform for Embedded Systems |
+| **Pemilik** | M Faris Asroru Ghifary |
+| **Institusi** | Politeknik Negeri Malang (Polinema) |
+| **Program Studi** | D-III Teknik Elektronika |
+| **Semester** | 5 |
+| **Lokasi** | Malang, Jawa Timur, Indonesia |
+| **Email** | m.farisasrorughifary@gmail.com |
+| **LinkedIn** | linkedin.com/in/farisshuid/ |
+| **WhatsApp** | +62 895-3391-54153 |
+| **Status** | ✅ Production-Ready Concept |
 
 ---
 
@@ -42,32 +45,38 @@
 
 ### 1. Deskripsi Proyek
 
-**EduKit IoT** adalah papan pembelajaran Internet of Things (IoT) all-in-one yang dirancang khusus untuk mahasiswa, siswa SMK, dan prototyper cepat. Produk ini mengintegrasikan mikrokontroler ESP32 dengan berbagai sensor dan aktuator dalam satu board yang menggunakan sistem jumper tanpa soldering, memungkinkan pengguna untuk fokus pada pembelajaran konsep IoT tanpa hambatan teknis instalasi hardware.
+**EduKit IoT** adalah papan pembelajaran berbasis ESP32 dan Arduino yang mengintegrasikan berbagai sensor, aktuator, komunikasi serial, serta antarmuka ekspansi dalam satu platform modular. Produk dirancang untuk mahasiswa teknik, SMK, laboratorium praktikum, komunitas maker, dan prototyping cepat.
 
 **Keunggulan Utama:**
-- ✅ **Plug & Play**: Sistem jumper tanpa solder
-- ✅ **All-in-One**: Sensor lengkap dalam satu board
-- ✅ **Kompatibel**: Support Arduino IDE, MicroPython, PlatformIO
-- ✅ **Edukatif**: Dilengkapi modul pembelajaran terstruktur
-- ✅ **Terjangkau**: Harga kompetitif untuk pasar pendidikan Indonesia
+- ✅ **Plug and Play**: Sistem jumper tanpa solder
+- ✅ **Jumper Ready**: Siap pakai untuk eksperimen
+- ✅ **Dokumentasi Bilingual**: Indonesia & English
+- ✅ **Portabel**: Mudah dibawa dan digunakan
+- ✅ **Dual Compatibility**: Mendukung ESP32 dan Arduino
+- ✅ **IoT & Embedded**: Mendukung pembelajaran IoT dan Embedded System
 
 ### 2. Profil Usahawan
 
 | **Aspek** | **Deskripsi** |
 |-----------|---------------|
-| **Latar Belakang** | Teknik Elektro/Informatika dengan pengalaman di bidang embedded system |
-| **Motivasi** | Mengatasi kesulitan mahasiswa/Siswa dalam belajar IoT akibat hardware yang kompleks |
-| **Visi** | Menjadi penyedia solusi edukasi IoT terdepan di Indonesia |
-| **Misi** | Menyediakan hardware edukasi berkualitas dengan harga terjangkau dan kurikulum pendukung |
+| **Nama Lengkap** | M Faris Asroru Ghifary |
+| **Latar Belakang** | D-III Teknik Elektronika, Politeknik Negeri Malang |
+| **Keahlian Teknis** | Embedded System Development, ESP32, STM32, FreeRTOS, CAN Bus, SPI, I2C, Modbus, Python Reporting, Logic Analyzer Automation, PCB Design Dasar, Proteus Simulation |
+| **Pengalaman** | Internship Rumah Drone (DJI Ecosystem), Robotics Team Polinema, KRSRI Hexapod Robot, AVRO VTOL Project, ESP32 Fieldbus Integration Project |
+| **Target Karir** | Embedded System Engineer, Research & Development Engineer, Industrial Communication Protocol Specialist |
+| **Motivasi** | Mengatasi kesulitan mahasiswa/siswa dalam belajar IoT dan embedded system akibat hardware yang kompleks dan mahal |
+| **Visi** | Menjadi penyedia solusi edukasi embedded system dan IoT terdepan di Indonesia |
+| **Misi** | Menyediakan hardware edukasi berkualitas dengan harga terjangkau dan dokumentasi lengkap |
 
 ### 3. Kontribusi Ekonomi
 
 | **Indikator** | **Tahun 1** | **Tahun 3** | **Tahun 5** |
 |---------------|-------------|-------------|-------------|
 | Penyerapan Tenaga Kerja | 4 orang | 8 orang | 15 orang |
-| Kontribusi Pajak | Rp 12.500.000 | Rp 45.000.000 | Rp 125.000.000 |
-| Multiplier Effect | Supplier lokal | Ekspor regional | Training center |
-| Dampak Pendidikan | 600 mahasiswa | 1.350 mahasiswa | 3.000+ mahasiswa |
+| Unit Terjual | 600 unit | 1.350 unit | 2.282 unit |
+| Revenue | Rp 165.000.000 | Rp 371.250.000 | Rp 627.550.000 |
+| Laba Bersih | Rp 17.040.000 | Rp 76.440.000 | Rp 180.870.000 |
+| Dampak Pendidikan | 600 mahasiswa | 1.350 mahasiswa | 2.282+ mahasiswa |
 
 ### 4. Ringkasan Keuangan
 
@@ -81,11 +90,11 @@
 ├─────────────────────────────────────────────────────────────┤
 │  Harga Jual / Unit       : Rp 275.000                       │
 │  HPP / Unit              : Rp 185.000                       │
-│  Margin Kotor            : Rp  90.000 (32.7%)              │
+│  Margin Kontribusi       : Rp  90.000 (32.7%)              │
 ├─────────────────────────────────────────────────────────────┤
-│  BEP (Unit/Tahun)        : ± 650 unit                       │
-│  ROI Tahun 1             : ~28-32%                          │
-│  Payback Period          : 3.2 tahun                        │
+│  BEP (Unit/Tahun)        : ± 410 unit                       │
+│  ROI Tahun 1             : ~17-20%                          │
+│  Payback Period          : ≤ 5 Tahun                        │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -95,11 +104,19 @@
 ┌─────────────────────────────────────────────────────────────┐
 │  [████████████████████░░░░░░░░] 70% - SIAP PRODUKSI MASAL   │
 ├─────────────────────────────────────────────────────────────┤
-│  ✅ Riset Pasar           ❌ Distribusi Nasional            │
-│  ✅ Prototyping           ❌ Ekspor Regional                │
-│  ✅ Uji Coba Produk       ⏳ Partnership Kampus             │
-│  ✅ Business Plan         ⏳ Setup Produksi                 │
+│  ✅ Business Plan           ❌ Distribusi Nasional          │
+│  ✅ Prototyping             ❌ Ekspor Regional              │
+│  ✅ Riset Pasar             ⏳ Setup Produksi               │
+│  ✅ Uji Coba Produk         ⏳ Partnership Kampus           │
 └─────────────────────────────────────────────────────────────┘
+```
+
+### 6. Badge Proyek
+
+```
+[✅ Production-Ready Concept]
+[🎓 Academic Project]
+[🇮🇩 Made in Malang]
 ```
 
 ---
@@ -108,4 +125,4 @@
 
 ---
 
-*© 2025 EduKit IoT - All Rights Reserved*
+*© 2025 EduKit IoT - M Faris Asroru Ghifary - All Rights Reserved*
