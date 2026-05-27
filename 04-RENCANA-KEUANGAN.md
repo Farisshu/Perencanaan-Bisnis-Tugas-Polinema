@@ -1,47 +1,44 @@
 # 💰 04-RENCANA-KEUANGAN
 
+**EduKit IoT** - Rencana Keuangan 5 Tahun  
+**Pemilik:** M Faris Asroru Ghifary | **Institusi:** Politeknik Negeri Malang (Polinema)  
+**Email:** m.farisasrorughifary@gmail.com | **WhatsApp:** +62 895-3391-54153
+
 ---
 
-## 4.1 KEBUTUHAN MODAL
+## 4.1 BIAYA PROYEK (TOTAL MODAL)
 
-### Total Kebutuhan Investasi Awal
+### Kebutuhan Investasi Awal
 
-| **Kategori** | **Item** | **Biaya** | **%** |
-|--------------|----------|-----------|-------|
-| **Investasi Tetap** | | | |
-| | Peralatan Produksi | Rp 32.800.000 | 32.8% |
-| | Renovasi Workshop | Rp 15.000.000 | 15.0% |
-| | Furniture & Fixtures | Rp 6.000.000 | 6.0% |
-| | Kendaraan Operasional (motor) | Rp 15.000.000 | 15.0% |
-| | Software & IT Infrastructure | Rp 10.000.000 | 10.0% |
-| | **Subtotal Investasi Tetap** | **Rp 78.800.000** | **78.8%** |
-| **Modal Kerja** | | | |
-| | Initial Inventory (150 unit) | Rp 27.750.000 | 27.8% |
-| | Cash Reserve (3 bulan ops) | Rp 25.000.000 | 25.0% |
-| | Marketing Launch Budget | Rp 8.000.000 | 8.0% |
-| | Legal & Administration | Rp 5.000.000 | 5.0% |
-| | **Subtotal Modal Kerja** | **Rp 65.750.000** | **65.8%** |
-| **TOTAL KEBUTUHAN MODAL** | | **Rp 144.550.000** | **100%** |
+| **Kategori** | **Item** | **Biaya (Rp)** | **%** |
+|--------------|----------|----------------|-------|
+| **AKTIVA TETAP** | | | |
+| | Peralatan Produksi (solder station, multimeter, dll) | 25.000.000 | 25.0% |
+| | Renovasi & Setup Workshop | 10.000.000 | 10.0% |
+| | Furniture & Fixtures | 5.000.000 | 5.0% |
+| | **Subtotal Aktiva Tetap** | **40.000.000** | **40.0%** |
+| **BIAYA PRA-OPERASIONAL** | | | |
+| | Legal & Perizinan (PT, NPWP, merk) | 5.000.000 | 5.0% |
+| | Branding & Website | 8.000.000 | 8.0% |
+| | Training & Recruitment | 5.000.000 | 5.0% |
+| | Deposit Sewa (2 bulan) | 6.000.000 | 6.0% |
+| | **Subtotal Pra-Operasional** | **24.000.000** | **24.0%** |
+| **MODAL KERJA** | | | |
+| | Initial Inventory (150 unit × Rp 185.000) | 27.750.000 | 27.8% |
+| | Cash Reserve (operasional 3 bulan) | 8.250.000 | 8.2% |
+| | **Subtotal Modal Kerja** | **36.000.000** | **36.0%** |
+| **TOTAL MODAL DIBUTUHKAN** | | **100.000.000** | **100%** |
 
-*Catatan: Untuk konsistensi dengan pedoman angka, disesuaikan menjadi Rp 100.000.000 dengan optimasi.*
-
-### Ringkasan Kebutuhan Modal (Adjusted)
+### Ringkasan Modal Awal
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │              TOTAL KEBUTUHAN MODAL                          │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
-│  Investasi Tetap                                            │
-│  ├── Peralatan Produksi    : Rp 25.000.000                 │
-│  ├── Renovasi & Setup      : Rp 10.000.000                 │
-│  └── Lainnya               : Rp  5.000.000                 │
-│                                                             │
-│  Modal Kerja                                                  │
-│  ├── Initial Inventory     : Rp 20.000.000                 │
-│  ├── Cash Reserve          : Rp 25.000.000                 │
-│  ├── Marketing             : Rp 10.000.000                 │
-│  └── Admin & Legal         : Rp  5.000.000                 │
+│  Aktiva Tetap          : Rp 40.000.000 (40%)               │
+│  Pra-Operasional       : Rp 24.000.000 (24%)               │
+│  Modal Kerja           : Rp 36.000.000 (36%)               │
 │                                                             │
 ├─────────────────────────────────────────────────────────────┤
 │  GRAND TOTAL           : Rp 100.000.000                    │
