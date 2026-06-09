@@ -1,4 +1,1 @@
-```markdown
-# Project-specific ignores
-Tabel-Panduan-Keputusan.md
-```
+Nothing should be ignored - all modified files are markdown documentation files (.md) which are source content and should be tracked in version control.

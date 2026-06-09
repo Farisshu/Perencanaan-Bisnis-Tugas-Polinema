@@ -21,16 +21,16 @@
 
 ### Key Metrics Overview (Model Realistis - Lean Startup)
 
-| **Metric** | **Target Y1** | **Status** | **Progress** |
-|------------|---------------|------------|--------------|
-| Penjualan | 300 unit | 🟡 Conservative | ░░░░░░░░░░ 0% |
-| Revenue | Rp 82.500.000 | 🟡 Conservative | ░░░░░░░░░░ 0% |
-| Gross Margin | 32.7% | 🟢 On Track | ░░░░░░░░░░ 32.7% |
-| Net Profit | (Rp 53.600.000) | 🔴 Loss (Building Phase) | Building market share |
-| BEP Point | 867 unit | ⚠️ Tahun 4 | 34.6% kapasitas Y1 |
-| Burn Rate | Rp 4.5jt/bulan | 🟢 Manageable | 6 bulan runway |
+| **Metric** | **Target Y1** | **Status** | **Keterangan** |
+|------------|---------------|------------|----------------|
+| Penjualan | 300 unit | 🟡 Conservative | Target realistis untuk mahasiswa |
+| Revenue | Rp 82.500.000 | 🟡 Conservative | Modal awal Rp 30jt |
+| Gross Margin | 32.7% | 🟢 On Track | Margin sehat untuk hardware |
+| Net Profit | (Rp 53.600.000) | 🔴 Loss (Building Phase) | Normal untuk startup tahun pertama |
+| BEP Point | 867 unit | ⚠️ Tahun 4 | Butuh scale up bertahap |
+| Burn Rate | Rp 4.5jt/bulan | 🟢 Manageable | Lean operational model |
 
-*Catatan: ROI negatif di tahun pertama adalah normal untuk startup dalam fase building market share*
+*Catatan: ROI negatif di tahun pertama adalah normal untuk startup dalam fase building market share. Model ini dirancang feasible untuk mahasiswa dengan modal terbatas.*
 
 ---
 
@@ -182,7 +182,7 @@ Tahun 5  [█████████████████░░░░░░�
 |---------------|-----------|
 | Total Addressable Market (TAM) | 100.000+ mahasiswa teknik di Indonesia |
 | Serviceable Available Market (SAM) | 25.000 mahasiswa (Jawa Timur + DIY) |
-| Serviceable Obtainable Market (SOM) | 600 unit (Tahun 1) |
+| Serviceable Obtainable Market (SOM) | 300 unit (Tahun 1) - Model Realistis |
 | Market Growth Rate | 15-20% per tahun |
 
 ---
@@ -255,17 +255,19 @@ gantt
     Grand Opening         :2025-06, 2025-06
 ```
 
-### Milestone Progress
+### Milestone Status (Perencanaan)
 
-| **Milestone** | **Target** | **Status** | **Progress** |
-|---------------|------------|------------|--------------|
-| Prototype v1.0 | Des 2024 | ✅ Done | ████████████████████ 100% |
-| Firmware Beta | Jan 2025 | ✅ Done | ████████████████████ 100% |
-| PCB Production | Feb 2025 | ✅ Done | ████████████████████ 100% |
-| Legal Setup | Mar 2025 | 🟡 In Progress | ████████████░░░░░░░░ 60% |
-| First Batch (30 unit) | Apr 2025 | ⚪ Pending | ░░░░░░░░░░░░░░░░░░░░ 0% |
-| Soft Launch | Mei 2025 | ⚪ Pending | ░░░░░░░░░░░░░░░░░░░░ 0% |
-| Grand Opening | Jun 2025 | ⚪ Pending | ░░░░░░░░░░░░░░░░░░░░ 0% |
+| **Milestone** | **Target** | **Status Rencana** | **Keterangan** |
+|---------------|------------|-------------------|----------------|
+| Prototype v1.0 | Des 2024 | ✅ Completed | Untuk tugas proyek embedded system |
+| Firmware Beta | Jan 2025 | ✅ Completed | Sudah diuji fungsionalitas |
+| PCB Production | Feb 2025 | ✅ Completed | 5-10 unit untuk demo |
+| Legal Setup | Mar 2025 | 📋 Planned | NIB OSS - belum dijalankan |
+| First Batch (30 unit) | Apr 2025 | 📋 Planned | Produksi setelah funding |
+| Soft Launch | Mei 2025 | 📋 Planned | Testing market response |
+| Grand Opening | Jun 2025 | 📋 Planned | Official launch |
+
+**Catatan Penting:** Dokumen ini adalah **perencanaan bisnis** untuk tugas Technopreneurship. Produk prototype sudah dibuat (5-10 unit) untuk keperluan akademik dan demonstrasi, namun implementasi bisnis komersial skala penuh akan dilaksanakan setelah mendapat pendanaan dan validasi pasar lebih lanjut. Semua timeline dan target merupakan proyeksi perencanaan, bukan realisasi aktual.
 
 ---
 

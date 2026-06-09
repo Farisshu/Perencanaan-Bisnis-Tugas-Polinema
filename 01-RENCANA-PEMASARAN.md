@@ -32,15 +32,15 @@ Pasar perangkat edukasi embedded system dan IoT di Indonesia menunjukkan pertumb
 
 ## 1.3 TARGET PASAR
 
-### Target Utama Tahun 1
+### Target Utama Tahun 1 (Model Realistis)
 
 | **Segment** | **Target Unit** | **Persentase** | **Revenue Target** |
 |-------------|-----------------|----------------|-------------------|
-| Mahasiswa Teknik | 300 unit | 50% | Rp 82.500.000 |
-| Siswa SMK | 150 unit | 25% | Rp 41.250.000 |
-| Hobbyist/DIY | 90 unit | 15% | Rp 24.750.000 |
-| Institusi Pendidikan | 60 unit | 10% | Rp 16.500.000 |
-| **Total** | **600 unit** | **100%** | **Rp 165.000.000** |
+| Mahasiswa Teknik | 150 unit | 50% | Rp 41.250.000 |
+| Siswa SMK | 75 unit | 25% | Rp 20.625.000 |
+| Hobbyist/DIY | 45 unit | 15% | Rp 12.375.000 |
+| Institusi Pendidikan | 30 unit | 10% | Rp 8.250.000 |
+| **Total** | **300 unit** | **100%** | **Rp 82.500.000** |
 
 ---
 
@@ -195,94 +195,131 @@ flowchart LR
 
 ## 1.9 STRATEGI PROMOSI
 
-### Promotion Mix
+### Promotion Mix (Model Realistis)
 
 | **Media** | **Frekuensi** | **Budget/Bulan** | **Reach Estimasi** |
 |-----------|---------------|------------------|---------------------|
-| Instagram Ads | Daily | Rp 1.500.000 | 50.000 impressions |
-| Facebook Ads | 3x/minggu | Rp 1.000.000 | 30.000 impressions |
-| YouTube Tutorial | 2x/bulan | Rp 500.000 | 10.000 views |
-| Influencer Tech | 1x/bulan | Rp 1.000.000 | 20.000 reach |
-| Campus Event | 2x/bulan | Rp 1.500.000 | 500 direct contact |
-| **Total** | | **Rp 5.500.000** | **110.500+ reach** |
+| Instagram Ads | 5x/minggu | Rp 600.000 | 25.000 impressions |
+| Facebook Ads | 2x/minggu | Rp 400.000 | 15.000 impressions |
+| YouTube Tutorial | 1x/bulan | Rp 300.000 | 5.000 views |
+| Influencer Tech | 1x/quarter | Rp 250.000 | 5.000 reach |
+| Campus Event | 1x/bulan | Rp 1.000.000 | 250 direct contact |
+| **Total** | | **Rp 2.550.000** | **50.000+ reach** |
+
+**Catatan:** Budget promosi harian disesuaikan dengan model lean startup. Fokus pada organic content dan word-of-mouth marketing untuk efisiensi biaya.
 
 ---
 
 ## 1.10 SALES FUNNEL
 
-```mermaid
-funnel
-    title Sales Funnel EduKit IoT
-    "Awareness (100.000 reach)" : 100000
-    "Interest (5% CTR)" : 5000
-    "Consideration (20% engage)" : 1000
-    "Intent (30% add to cart)" : 300
-    "Purchase (60% convert)" : 180
-    "Retention (40% repeat)" : 72
+### Sales Funnel Projection (Tahun 1)
+
+Berikut adalah proyeksi sales funnel untuk mencapai target **300 unit** di Tahun 1:
+
+| **Stage** | **Deskripsi** | **Conversion Rate** | **Volume** |
+|-----------|---------------|---------------------|------------|
+| **Awareness** | Reach melalui social media, campus event, word of mouth | - | 50.000 orang |
+| **Interest** | Klik link, visit website/marketplace | 5% CTR | 2.500 orang |
+| **Consideration** | Lihat produk, baca detail, bandingkan | 20% engage | 500 orang |
+| **Intent** | Add to cart, tanya via WA | 40% intent | 200 orang |
+| **Purchase** | Checkout dan bayar | 75% convert | **150 orang** |
+| **Retention** | Repeat order/referal (tahun berikutnya) | 30% repeat | 45 orang |
+
+**Catatan:** 
+- Dengan funnel di atas, dibutuhkan reach ~50.000 orang untuk konversi 150 pembeli per tahun
+- Target 300 unit dicapai melalui kombinasi: 150 unit direct + 100 unit institusi + 50 unit reseller
+- Conversion rate akan dioptimalkan melalui improvement di setiap stage
+
+### Visualisasi Funnel (ASCII)
+
+```
+Sales Funnel EduKit IoT - Target Tahun 1
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Awareness      [████████████████████████████████████████] 50.000 reach
+               │ 5% CTR
+               ▼
+Interest       [████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 2.500 visitors
+               │ 20% engage
+               ▼
+Consideration  [███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 500 prospects
+               │ 40% intent
+               ▼
+Intent         [█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 200 hot leads
+               │ 75% convert
+               ▼
+Purchase       [█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 150 customers
+               │ 30% repeat
+               ▼
+Retention      [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 45 repeat buyers
+
+Target Total: 300 unit/tahun (termasuk channel institusi & reseller)
 ```
 
 ---
 
 ## 1.11 RAMALAN PENJUALAN 5 TAHUN
 
-### Proyeksi Volume Penjualan
+### Proyeksi Volume Penjualan (Model Realistis)
 
 | **Tahun** | **Unit Terjual** | **Growth %** | **Harga/Unit** | **Total Revenue** |
 |-----------|------------------|--------------|----------------|-------------------|
-| Tahun 1 | 600 | - | Rp 275.000 | Rp 165.000.000 |
-| Tahun 2 | 900 | 50% | Rp 275.000 | Rp 247.500.000 |
-| Tahun 3 | 1.350 | 50% | Rp 275.000 | Rp 371.250.000 |
-| Tahun 4 | 1.755 | 30% | Rp 275.000 | Rp 482.625.000 |
-| Tahun 5 | 2.282 | 30% | Rp 275.000 | Rp 627.550.000 |
+| Tahun 1 | 300 | - | Rp 275.000 | Rp 82.500.000 |
+| Tahun 2 | 500 | 67% | Rp 275.000 | Rp 137.500.000 |
+| Tahun 3 | 800 | 60% | Rp 275.000 | Rp 220.000.000 |
+| Tahun 4 | 1.200 | 50% | Rp 275.000 | Rp 330.000.000 |
+| Tahun 5 | 1.750 | 46% | Rp 275.000 | Rp 481.250.000 |
 
 ### ASCII Bar Chart - Penjualan per Tahun
 
 ```
-Penjualan Unit (5 Tahun)
+Penjualan Unit (5 Tahun) - Model Realistis
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Tahun 1  [████████░░░░░░░░░░░░░░░░░░░░] 600 unit   Rp 165.000.000
-Tahun 2  [████████████░░░░░░░░░░░░░░░░] 900 unit   Rp 247.500.000
-Tahun 3  [█████████████████░░░░░░░░░░░] 1.350 unit Rp 371.250.000
-Tahun 4  [██████████████████████░░░░░░] 1.755 unit Rp 482.625.000
-Tahun 5  [████████████████████████████] 2.282 unit Rp 627.550.000
+Tahun 1  [█████░░░░░░░░░░░░░░░░░░░░░] 300 unit   Rp 82,5jt
+Tahun 2  [████████░░░░░░░░░░░░░░░░░░] 500 unit   Rp 137,5jt
+Tahun 3  [█████████████░░░░░░░░░░░░░] 800 unit   Rp 220jt
+Tahun 4  [███████████████████░░░░░░░] 1.200 unit Rp 330jt
+Tahun 5  [█████████████████████████░] 1.750 unit Rp 481jt
 
          └────────────────────────────────────────────────────
-         0        500       1000      1500      2000      2500
+         0       500      1000      1500      2000
 ```
 
 ### Breakdown Penjualan per Channel (Tahun 1)
 
 | **Channel** | **%** | **Unit** | **Revenue** |
 |-------------|-------|----------|-------------|
-| Website Official | 40% | 240 | Rp 66.000.000 |
-| Marketplace | 35% | 210 | Rp 57.750.000 |
-| Reseller/Kampus | 15% | 90 | Rp 24.750.000 |
-| Direct Sales | 10% | 60 | Rp 16.500.000 |
-| **Total** | **100%** | **600** | **Rp 165.000.000** |
+| Website Official | 40% | 120 | Rp 33.000.000 |
+| Marketplace | 35% | 105 | Rp 28.875.000 |
+| Reseller/Kampus | 15% | 45 | Rp 12.375.000 |
+| Direct Sales (Institusi) | 10% | 30 | Rp 8.250.000 |
+| **Total** | **100%** | **300** | **Rp 82.500.000** |
 
 ---
 
 ## 1.12 ANGGARAN PROMOSI
 
-### Rincian Budget Promosi Tahun 1
+### Rincian Budget Promosi Tahun 1 (Model Realistis)
 
 | **Item** | **Budget/Bulan** | **Budget/Tahun** | **KPI** |
 |----------|------------------|------------------|---------|
-| Digital Ads (IG/FB) | Rp 2.500.000 | Rp 30.000.000 | CPC < Rp 500 |
-| Content Production | Rp 1.000.000 | Rp 12.000.000 | 24 video/tahun |
-| Influencer Collaboration | Rp 1.000.000 | Rp 12.000.000 | 12 collab/tahun |
-| Event & Exhibition | Rp 2.000.000 | Rp 24.000.000 | 20 event/tahun |
-| Printed Materials | Rp 500.000 | Rp 6.000.000 | 5000 brosur |
-| Samples/Review Units | Rp 1.000.000 | Rp 12.000.000 | 50 units given |
-| **TOTAL** | **Rp 8.000.000** | **Rp 96.000.000** | |
+| Digital Ads (IG/FB) | Rp 1.000.000 | Rp 12.000.000 | CPC < Rp 500 |
+| Content Production | Rp 500.000 | Rp 6.000.000 | 12 video/tahun |
+| Influencer Collaboration | Rp 300.000 | Rp 3.600.000 | 4 collab/tahun |
+| Event & Exhibition | Rp 1.000.000 | Rp 12.000.000 | 10 event/tahun |
+| Printed Materials | Rp 250.000 | Rp 3.000.000 | 2500 brosur |
+| Samples/Review Units | Rp 500.000 | Rp 6.000.000 | 20 units given |
+| **TOTAL** | **Rp 3.550.000** | **Rp 42.600.000** | |
+
+**Catatan:** Budget promosi disesuaikan dengan model lean startup (51% lebih hemat dari model ideal). Fokus pada organic growth dan campus event yang cost-effective.
 
 ### ROI Promosi
 
 | **Metric** | **Target** | **Formula** |
 |------------|------------|-------------|
-| CAC (Customer Acquisition Cost) | < Rp 160.000 | Total Marketing Cost / New Customers |
-| ROMI (Return on Marketing Investment) | > 200% | (Revenue from Marketing - Cost) / Cost × 100% |
+| CAC (Customer Acquisition Cost) | < Rp 142.000 | Total Marketing Cost / New Customers |
+| ROMI (Return on Marketing Investment) | > 150% | (Revenue from Marketing - Cost) / Cost × 100% |
 | Conversion Rate | > 3% | Purchases / Website Visitors × 100% |
 
 ---

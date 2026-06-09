@@ -361,20 +361,20 @@ flowchart TD
 
 ## 3.9 KEY PERFORMANCE INDICATORS (KPI) PERUSAHAAN
 
-### Corporate KPI Dashboard
+### Corporate KPI Dashboard (Model Realistis)
 
 | **Perspective** | **KPI** | **Target Y1** | **Actual** | **Status** |
 |-----------------|---------|---------------|------------|------------|
-| **Financial** | Revenue | Rp 165.000.000 | - | 🎯 On Track |
+| **Financial** | Revenue | Rp 82.500.000 | - | 🎯 On Track |
 | | Gross Margin | 32.7% | - | 🎯 On Track |
-| | Net Profit Margin | 15% | - | 🎯 On Track |
-| | Cash Runway | 12 months | - | 🎯 On Track |
+| | Net Profit Margin | -65% (building phase) | - | 📉 Expected Loss |
+| | Cash Runway | 6 bulan | - | 🟡 Conservative |
 | **Customer** | Customer Satisfaction | 4.5/5 | - | 🎯 On Track |
 | | NPS Score | 50+ | - | 🎯 On Track |
 | | Repeat Purchase Rate | 25% | - | 🎯 On Track |
 | **Internal Process** | On-time Delivery | 95% | - | 🎯 On Track |
 | | Defect Rate | < 2% | - | 🎯 On Track |
-| | Inventory Turnover | 12x | - | 🎯 On Track |
+| | Inventory Turnover | 8x | - | 🎯 On Track |
 | **Learning & Growth** | Employee Satisfaction | 4.0/5 | - | 🎯 On Track |
 | | Training Hours/Employee | 40 jam | - | 🎯 On Track |
 | | Employee Turnover | < 10% | - | 🎯 On Track |
