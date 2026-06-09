@@ -251,7 +251,7 @@ c)	apakah produk mereka serupa atau tidak satu sama lain;
 d)	apakah produk mereka serupa atau tidak dengan produk Anda.
 Tabel Panduan keputusan berikut dapat digunakan untuk membantu dalam membuat suatu perkiraan penguasaan pangsa pasar Anda.
 
-Lihat tabel lengkap pada: [Tabel Panduan Keputusan](Tabel-Panduan-Keputusan.md)
+Tabel panduan keputusan telah dihapus. Silakan merujuk langsung ke bagian terkait di dokumen ini.
 
 1.8 Berapa banyak produk yang akan dijual?
 Setelah Anda dapat memperkirakan penguasaan pangsa pasar yang secara realistis dapat diraih, Anda dapat membuat suatu perkiraan target penjualan (peramalan penjualan) setiap bulan untuk tahun pertama dan tahunan untuk lima tahun berikutnya. Peramalan penjualan tahun pertama biasanya hanya sebagian dari perkiraan penguasaan pangsa pasar, yaitu sekitar 60 sampai 80% dari perkiraan penguasaan pangsa pasar permulaan. Hal ini akan memberi beberapa kesalahan didalam menaksir pasar itu.
