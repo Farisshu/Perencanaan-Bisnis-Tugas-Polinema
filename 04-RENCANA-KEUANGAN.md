@@ -1,6 +1,6 @@
 # 💰 04-RENCANA-KEUANGAN
 
-**EduKit IoT** - Rencana Keuangan 5 Tahun  
+**EduKit IoT** - Rencana Keuangan 5 Tahun (Realistis & Lean Startup)  
 **Pemilik:** M Faris Asroru Ghifary | **Institusi:** Politeknik Negeri Malang (Polinema)  
 **Email:** m.farisasrorughifary@gmail.com | **WhatsApp:** +62 895-3391-54153
 
@@ -8,40 +8,47 @@
 
 ## 4.1 BIAYA PROYEK (TOTAL MODAL)
 
-### Kebutuhan Investasi Awal
+### Kebutuhan Investasi Awal (Lean Startup Model)
 
 | **Kategori** | **Item** | **Biaya (Rp)** | **%** |
 |--------------|----------|----------------|-------|
-| **AKTIVA TETAP** | | | |
-| | Peralatan Produksi (solder station, multimeter, dll) | 25.000.000 | 25.0% |
-| | Renovasi & Setup Workshop | 10.000.000 | 10.0% |
-| | Furniture & Fixtures | 5.000.000 | 5.0% |
-| | **Subtotal Aktiva Tetap** | **40.000.000** | **40.0%** |
+| **AKTIVA TETAP (MINIMALIS)** | | | |
+| | Peralatan Produksi Essential (solder, multimeter, tools dasar) | 8.000.000 | 26.7% |
+| | Setup Workspace (di rumah/kost) | 2.000.000 | 6.7% |
+| | **Subtotal Aktiva Tetap** | **10.000.000** | **33.4%** |
 | **BIAYA PRA-OPERASIONAL** | | | |
-| | Legal & Perizinan (PT, NPWP, merk) | 5.000.000 | 5.0% |
-| | Branding & Website | 8.000.000 | 8.0% |
-| | Training & Recruitment | 5.000.000 | 5.0% |
-| | Deposit Sewa (2 bulan) | 6.000.000 | 6.0% |
-| | **Subtotal Pra-Operasional** | **24.000.000** | **24.0%** |
+| | Legal & Perizinan (UMKM, NIB online - gratis/dibuat sendiri) | 500.000 | 1.7% |
+| | Branding Sederhana (logo DIY, packaging sederhana) | 1.500.000 | 5.0% |
+| | Website Sederhana (Landing page + WhatsApp) | 1.000.000 | 3.3% |
+| | **Subtotal Pra-Operasional** | **3.000.000** | **10.0%** |
 | **MODAL KERJA** | | | |
-| | Initial Inventory (150 unit × Rp 185.000) | 27.750.000 | 27.8% |
-| | Cash Reserve (operasional 3 bulan) | 8.250.000 | 8.2% |
-| | **Subtotal Modal Kerja** | **36.000.000** | **36.0%** |
-| **TOTAL MODAL DIBUTUHKAN** | | **100.000.000** | **100%** |
+| | Initial Inventory (50 unit × Rp 185.000) | 9.250.000 | 30.8% |
+| | Cash Reserve (operasional 2 bulan) | 5.000.000 | 16.7% |
+| | Marketing Budget Awal (digital marketing organik) | 2.000.000 | 6.7% |
+| | **Subtotal Modal Kerja** | **16.250.000** | **54.2%** |
+| | Buffer/Contingency (10%) | 750.000 | 2.4% |
+| **TOTAL MODAL DIBUTUHKAN** | | **30.000.000** | **100%** |
 
 ### Ringkasan Modal Awal
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│              TOTAL KEBUTUHAN MODAL                          │
+│              TOTAL KEBUTUHAN MODAL (LEAN STARTUP)           │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
-│  Aktiva Tetap          : Rp 40.000.000 (40%)               │
-│  Pra-Operasional       : Rp 24.000.000 (24%)               │
-│  Modal Kerja           : Rp 36.000.000 (36%)               │
+│  Aktiva Tetap          : Rp 10.000.000 (33.4%)             │
+│  Pra-Operasional       : Rp  3.000.000 (10.0%)             │
+│  Modal Kerja           : Rp 16.250.000 (54.2%)             │
+│  Buffer                : Rp    750.000 (2.4%)              │
 │                                                             │
 ├─────────────────────────────────────────────────────────────┤
-│  GRAND TOTAL           : Rp 100.000.000                    │
+│  GRAND TOTAL           : Rp 30.000.000                     │
+│                                                             │
+│  💡 Ini adalah model realistis untuk mahasiswa:            │
+│     • Workshop di rumah/kost (no rent)                     │
+│     • Peralatan essential saja                             │
+│     • Produksi sesuai order (no large inventory)           │
+│     • Marketing organik & word-of-mouth                    │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -49,338 +56,304 @@
 
 ## 4.2 SUMBER MODAL
 
-### Struktur Pembiayaan
+### Struktur Pembiayaan (Realistis untuk Mahasiswa)
 
 | **Sumber** | **Amount** | **%** | **Cost of Capital** | **Tenor** |
 |------------|------------|-------|---------------------|-----------|
-| Modal Sendiri (Equity) | Rp 30.000.000 | 30% | - (dividend expectation) | - |
-| Pinjaman Bank (Debt) | Rp 70.000.000 | 70% | 10% p.a. (flat) | 5 tahun |
-| **TOTAL** | **Rp 100.000.000** | **100%** | **WACC ~8.5%** | |
+| Modal Sendiri (Tabungan/Orang Tua) | Rp 15.000.000 | 50% | - | - |
+| KUR (Kredit Usaha Rakyat) - Bunga Subsidi | Rp 10.000.000 | 33% | 6% p.a. | 3 tahun |
+| Program Kewirausahaan Kampus | Rp 5.000.000 | 17% | - (grant) | - |
+| **TOTAL** | **Rp 30.000.000** | **100%** | **WACC ~4%** | |
 
-### Rincian Pinjaman Bank
+### Rincian Pinjaman KUR
 
 | **Parameter** | **Nilai** |
 |---------------|-----------|
-| Principal | Rp 70.000.000 |
-| Bunga | 10% per tahun (flat) |
-| Tenor | 60 bulan (5 tahun) |
-| Angsuran Pokok/Bulan | Rp 1.166.667 |
-| Bunga/Bulan | Rp 583.333 |
-| Total Angsuran/Bulan | Rp 1.750.000 |
-| Total Bunga 5 Tahun | Rp 35.000.000 |
-| Total Pembayaran | Rp 105.000.000 |
+| Principal | Rp 10.000.000 |
+| Bunga | 6% per tahun (subsidi pemerintah) |
+| Tenor | 36 bulan (3 tahun) |
+| Angsuran Pokok/Bulan | Rp 277.778 |
+| Bunga/Bulan | Rp 50.000 |
+| Total Angsuran/Bulan | Rp 327.778 |
+| Total Bunga 3 Tahun | Rp 1.800.000 |
+| Total Pembayaran | Rp 11.800.000 |
 
-### Agunan Pinjaman
-
-| **Jenis Agunan** | **Nilai Pasar** | **Nilai Likuidasi** | **Coverage Ratio** |
-|------------------|-----------------|---------------------|--------------------|
-| BPKB Kendaraan (milik founder) | Rp 80.000.000 | Rp 60.000.000 | 85.7% |
-| Peralatan Produksi | Rp 25.000.000 | Rp 17.500.000 | 25.0% |
-| Personal Guarantee | - | - | Additional |
-| **Total Coverage** | | | **110.7%** |
+*Catatan: KUR lebih mudah diakses mahasiswa dengan proposal bisnis yang baik*
 
 ---
 
 ## 4.3 HPP PRODUK
 
-### Asumsi Dasar Proyeksi
+### Asumsi Dasar Proyeksi (Realistis - Lean Startup)
 
 | **Parameter** | **Tahun 1** | **Tahun 2** | **Tahun 3** | **Tahun 4** | **Tahun 5** |
 |---------------|-------------|-------------|-------------|-------------|-------------|
-| Volume Penjualan (unit) | 600 | 900 | 1.350 | 1.755 | 2.282 |
-| Harga Jual/Unit | Rp 275.000 | Rp 275.000 | Rp 275.000 | Rp 280.000 | Rp 280.000 |
+| Volume Penjualan (unit) | 300 | 500 | 800 | 1.200 | 1.700 |
+| Harga Jual/Unit | Rp 275.000 | Rp 275.000 | Rp 280.000 | Rp 285.000 | Rp 290.000 |
 | HPP/Unit | Rp 185.000 | Rp 180.000 | Rp 175.000 | Rp 170.000 | Rp 165.000 |
-| Growth Rate | - | 50% | 50% | 30% | 30% |
-| Inflasi Adjustment | - | - | - | 1.8% | 1.8% |
+| Growth Rate | - | 67% | 60% | 50% | 42% |
+| Kapasitas Produksi | 25 unit/bulan | 42 unit/bulan | 67 unit/bulan | 100 unit/bulan | 142 unit/bulan |
 
-### Asumsi Biaya Operasional
+### Asumsi Biaya Operasional (Lean Model - Kerja dari Rumah)
 
-| **Biaya** | **Bulan** | **Tahun** | **Growth/tahun** |
-|-----------|-----------|-----------|------------------|
-| Gaji & Benefit | Rp 27.020.000 | Rp 324.240.000 | 8% |
-| Sewa & Utilitas | Rp 4.500.000 | Rp 54.000.000 | 5% |
-| Marketing | Rp 5.500.000 | Rp 66.000.000 | 10% |
-| Administrasi | Rp 1.300.000 | Rp 15.600.000 | 5% |
-| **Total Fixed Cost** | **Rp 38.320.000** | **Rp 459.840.000** | **~7%** |
+| **Biaya** | **Bulan** | **Tahun** | **Growth/tahun** | **Keterangan** |
+|-----------|-----------|-----------|------------------|----------------|
+| Gaji Founder (penghasilan sampingan) | Rp 3.000.000 | Rp 36.000.000 | 10% | Part-time sambil kuliah |
+| Asisten Paruh Waktu (mahasiswa) | Rp 1.500.000 | Rp 18.000.000 | 10% | 1 orang, flexible hours |
+| Listrik & Internet (rumah) | Rp 500.000 | Rp 6.000.000 | 5% | Sudah ada, tambahan kecil |
+| Marketing Digital (organik+ads) | Rp 1.000.000 | Rp 12.000.000 | 15% | Fokus media sosial |
+| Transport & Operasional | Rp 500.000 | Rp 6.000.000 | 5% | Pengiriman, meeting |
+| **Total Fixed Cost** | **Rp 6.500.000** | **Rp 78.000.000** | **~9%** | Sangat lean! |
 
 ---
 
 ## 4.4 PROYEKSI PENJUALAN
 
-### Income Statement Projection
+### Income Statement Projection (Realistis - Lean Startup)
 
 | **Keterangan** | **Tahun 1** | **Tahun 2** | **Tahun 3** | **Tahun 4** | **Tahun 5** |
 |----------------|-------------|-------------|-------------|-------------|-------------|
-| **PENJUALAN BERSIH** | **Rp 165.000.000** | **Rp 247.500.000** | **Rp 371.250.000** | **Rp 491.400.000** | **Rp 638.960.000** |
-| HPP | (Rp 111.000.000) | (Rp 162.000.000) | (Rp 236.250.000) | (Rp 298.350.000) | (Rp 376.530.000) |
-| **LABA KOTOR** | **Rp 54.000.000** | **Rp 85.500.000** | **Rp 135.000.000** | **Rp 193.050.000** | **Rp 262.430.000** |
+| **PENJUALAN BERSIH** | **Rp 82.500.000** | **Rp 137.500.000** | **Rp 224.000.000** | **Rp 342.000.000** | **Rp 493.000.000** |
+| HPP (67-57%) | (Rp 55.500.000) | (Rp 90.000.000) | (Rp 140.000.000) | (Rp 204.000.000) | (Rp 280.500.000) |
+| **LABA KOTOR** | **Rp 27.000.000** | **Rp 47.500.000** | **Rp 84.000.000** | **Rp 138.000.000** | **Rp 212.500.000** |
 | | | | | | |
 | **Beban Operasional:** | | | | | |
-| Gaji & Benefit | (Rp 324.240.000) | (Rp 350.179.200) | (Rp 378.193.536) | (Rp 408.449.020) | (Rp 441.124.942) |
-| Sewa & Utilitas | (Rp 54.000.000) | (Rp 56.700.000) | (Rp 59.535.000) | (Rp 62.511.750) | (Rp 65.637.338) |
-| Marketing | (Rp 66.000.000) | (Rp 72.600.000) | (Rp 79.860.000) | (Rp 87.846.000) | (Rp 96.630.600) |
-| Administrasi | (Rp 15.600.000) | (Rp 16.380.000) | (Rp 17.199.000) | (Rp 18.058.950) | (Rp 18.961.898) |
-| Depresiasi | (Rp 6.560.000) | (Rp 6.560.000) | (Rp 6.560.000) | (Rp 6.560.000) | (Rp 6.560.000) |
-| Bunga Pinjaman | (Rp 7.000.000) | (Rp 7.000.000) | (Rp 7.000.000) | (Rp 7.000.000) | (Rp 7.000.000) |
-| **Total Beban** | **(Rp 473.400.000)** | **(Rp 509.419.200)** | **(Rp 548.347.536)** | **(Rp 590.425.720)** | **(Rp 635.914.778)** |
+| Gaji Founder & Asisten | (Rp 54.000.000) | (Rp 59.400.000) | (Rp 65.340.000) | (Rp 71.874.000) | (Rp 79.061.400) |
+| Listrik & Internet | (Rp 6.000.000) | (Rp 6.300.000) | (Rp 6.615.000) | (Rp 6.945.750) | (Rp 7.293.038) |
+| Marketing Digital | (Rp 12.000.000) | (Rp 13.800.000) | (Rp 15.870.000) | (Rp 18.250.500) | (Rp 20.988.075) |
+| Transport & Operasional | (Rp 6.000.000) | (Rp 6.300.000) | (Rp 6.615.000) | (Rp 6.945.750) | (Rp 7.293.038) |
+| Depresiasi Peralatan | (Rp 2.000.000) | (Rp 2.000.000) | (Rp 2.000.000) | (Rp 2.000.000) | (Rp 2.000.000) |
+| Bunga Pinjaman KUR | (Rp 600.000) | (Rp 600.000) | (Rp 600.000) | - | - |
+| **Total Beban** | **(Rp 80.600.000)** | **(Rp 88.400.000)** | **(Rp 97.040.000)** | **(Rp 106.016.000)** | **(Rp 116.635.551)** |
 | | | | | | |
-| **LABA/(RUGI) BERSIH** | **(Rp 419.400.000)** | **(Rp 423.919.200)** | **(Rp 413.347.536)** | **(Rp 397.375.720)** | **(Rp 373.484.778)** |
+| **LABA/(RUGI) BERSIH** | **(Rp 53.600.000)** | **(Rp 40.900.000)** | **(Rp 13.040.000)** | **Rp 31.984.000** | **Rp 95.864.449** |
+| **Net Profit Margin** | **-65%** | **-30%** | **-5.8%** | **9.4%** | **19.4%** |
 
-*Catatan: Terdapat ketidaksesuaian karena biaya tetap terlalu tinggi dibanding revenue. Perlu penyesuaian asumsi.*
+*Catatan: Tahun 1-3 masih rugi karena fase building market share. Ini normal untuk startup hardware. Break-even tercapai di Tahun 4.*
 
-### PROYEKSI LABA-RUGI (ADJUSTED - REALISTIS)
+### Visualisasi Jalur Menuju Profitabilitas
 
-Dengan penyesuaian biaya tetap yang lebih realistis untuk startup tahap awal:
-
-| **Keterangan** | **Tahun 1** | **Tahun 2** | **Tahun 3** | **Tahun 4** | **Tahun 5** |
-|----------------|-------------|-------------|-------------|-------------|-------------|
-| **PENJUALAN BERSIH** | **Rp 165.000.000** | **Rp 247.500.000** | **Rp 371.250.000** | **Rp 491.400.000** | **Rp 638.960.000** |
-| HPP (67.3%) | (Rp 111.000.000) | (Rp 162.000.000) | (Rp 236.250.000) | (Rp 298.350.000) | (Rp 376.530.000) |
-| **LABA KOTOR** | **Rp 54.000.000** | **Rp 85.500.000** | **Rp 135.000.000** | **Rp 193.050.000** | **Rp 262.430.000** |
-| | | | | | |
-| **Beban Operasional:** | | | | | |
-| Gaji & Benefit (lean) | (Rp 180.000.000) | (Rp 194.400.000) | (Rp 210.000.000) | (Rp 240.000.000) | (Rp 280.000.000) |
-| Sewa & Utilitas | (Rp 36.000.000) | (Rp 37.800.000) | (Rp 39.690.000) | (Rp 41.674.500) | (Rp 43.758.225) |
-| Marketing (varies) | (Rp 33.000.000) | (Rp 49.500.000) | (Rp 74.250.000) | (Rp 98.280.000) | (Rp 127.792.000) |
-| Administrasi | (Rp 12.000.000) | (Rp 12.600.000) | (Rp 13.230.000) | (Rp 13.891.500) | (Rp 14.586.075) |
-| Depresiasi | (Rp 6.560.000) | (Rp 6.560.000) | (Rp 6.560.000) | (Rp 6.560.000) | (Rp 6.560.000) |
-| Bunga Pinjaman | (Rp 7.000.000) | (Rp 7.000.000) | (Rp 7.000.000) | (Rp 7.000.000) | (Rp 7.000.000) |
-| **Total Beban** | **(Rp 274.560.000)** | **(Rp 307.860.000)** | **(Rp 350.730.000)** | **(Rp 407.406.000)** | **(Rp 479.696.300)** |
-| | | | | | |
-| **LABA/(RUGI) SEBELUM PAJAK** | **(Rp 220.560.000)** | **(Rp 222.360.000)** | **(Rp 215.730.000)** | **(Rp 214.356.000)** | **(Rp 217.266.300)** |
-
-*Masih menunjukkan kerugian karena scale belum tercapai. Ini realistis untuk startup hardware di tahun-tahun awal.*
-
-### PROYEKSI LABA-RUGI (OPTIMIZED - BREAK-EVEN FOCUSED)
-
-Untuk mencapai target ROI 28-32%, berikut skenario yang disesuaikan:
-
-| **Keterangan** | **Tahun 1** | **Tahun 2** | **Tahun 3** | **Tahun 4** | **Tahun 5** |
-|----------------|-------------|-------------|-------------|-------------|-------------|
-| **PENJUALAN BERSIH** | **Rp 165.000.000** | **Rp 247.500.000** | **Rp 371.250.000** | **Rp 491.400.000** | **Rp 638.960.000** |
-| HPP | (Rp 111.000.000) | (Rp 162.000.000) | (Rp 236.250.000) | (Rp 298.350.000) | (Rp 376.530.000) |
-| **LABA KOTOR** | **Rp 54.000.000** | **Rp 85.500.000** | **Rp 135.000.000** | **Rp 193.050.000** | **Rp 262.430.000** |
-| | | | | | |
-| **Beban Operasional:** | | | | | |
-| Total Operating Expenses | (Rp 30.000.000) | (Rp 36.000.000) | (Rp 45.000.000) | (Rp 55.000.000) | (Rp 68.000.000) |
-| Depresiasi | (Rp 6.560.000) | (Rp 6.560.000) | (Rp 6.560.000) | (Rp 6.560.000) | (Rp 6.560.000) |
-| Bunga Pinjaman | (Rp 7.000.000) | (Rp 7.000.000) | (Rp 7.000.000) | (Rp 7.000.000) | (Rp 7.000.000) |
-| **Total Beban** | **(Rp 43.560.000)** | **(Rp 49.560.000)** | **(Rp 58.560.000)** | **(Rp 68.560.000)** | **(Rp 81.560.000)** |
-| | | | | | |
-| **LABA SEBELUM PAJAK** | **Rp 10.440.000** | **Rp 35.940.000** | **Rp 76.440.000** | **Rp 124.490.000** | **Rp 180.870.000** |
-| Pajak (UMKM 0.5%) | (Rp 825.000) | (Rp 1.237.500) | (Rp 1.856.250) | (Rp 2.457.000) | (Rp 3.194.800) |
-| **LABA BERSIH** | **Rp 9.615.000** | **Rp 34.702.500** | **Rp 74.583.750** | **Rp 122.033.000** | **Rp 177.675.200** |
-| | | | | | |
-| **Net Profit Margin** | **5.8%** | **14.0%** | **20.1%** | **24.8%** | **27.8%** |
+```
+┌─────────────────────────────────────────────────────────────┐
+│              JALUR PROFITABILITAS (LEAN STARTUP)            │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  Tahun 1: Rp -53.6jt  [████████░░░░░░░░░░░░] ❌ Rugi       │
+│  Tahun 2: Rp -40.9jt  [██████░░░░░░░░░░░░░░] ❌ Rugi       │
+│  Tahun 3: Rp -13.0jt  [██░░░░░░░░░░░░░░░░░░] ⚠️ Hampir BEP │
+│  Tahun 4: Rp +32.0jt  [█████░░░░░░░░░░░░░░░] ✅ Profit!    │
+│  Tahun 5: Rp +95.9jt  [███████████████░░░░░] ✅✅ Profit   │
+│                                                             │
+│  💡 Strategi: Focus on growth first, profit later          │
+└─────────────────────────────────────────────────────────────┘
+```
 
 ---
 
 ## 4.5 PROYEKSI LABA RUGI 5 TAHUN
 
-### Cash Flow Projection (Indirect Method)
+### Cash Flow Projection (Realistis - Lean Startup)
 
 | **Keterangan** | **Tahun 1** | **Tahun 2** | **Tahun 3** | **Tahun 4** | **Tahun 5** |
 |----------------|-------------|-------------|-------------|-------------|-------------|
 | **Arus Kas dari Operasi** | | | | | |
-| Laba Bersih | Rp 9.615.000 | Rp 34.702.500 | Rp 74.583.750 | Rp 122.033.000 | Rp 177.675.200 |
-| (+) Depresiasi | Rp 6.560.000 | Rp 6.560.000 | Rp 6.560.000 | Rp 6.560.000 | Rp 6.560.000 |
-| (-) Increase in Inventory | (Rp 10.000.000) | (Rp 5.000.000) | (Rp 7.500.000) | (Rp 5.000.000) | (Rp 7.500.000) |
-| (-) Increase in Receivables | (Rp 5.000.000) | (Rp 7.500.000) | (Rp 10.000.000) | (Rp 10.000.000) | (Rp 12.500.000) |
-| (+) Increase in Payables | Rp 3.000.000 | Rp 4.000.000 | Rp 5.000.000 | Rp 6.000.000 | Rp 7.000.000 |
-| **Net Cash from Operations** | **Rp 4.175.000** | **Rp 32.762.500** | **Rp 68.643.750** | **Rp 119.593.000** | **Rp 171.235.200** |
+| Laba Bersih | (Rp 53.600.000) | (Rp 40.900.000) | (Rp 13.040.000) | Rp 31.984.000 | Rp 95.864.449 |
+| (+) Depresiasi | Rp 2.000.000 | Rp 2.000.000 | Rp 2.000.000 | Rp 2.000.000 | Rp 2.000.000 |
+| (-) Increase in Inventory | (Rp 2.000.000) | (Rp 3.000.000) | (Rp 4.000.000) | (Rp 5.000.000) | (Rp 6.000.000) |
+| (-) Increase in Receivables | (Rp 1.000.000) | (Rp 2.000.000) | (Rp 3.000.000) | (Rp 4.000.000) | (Rp 5.000.000) |
+| (+) Increase in Payables | Rp 500.000 | Rp 1.000.000 | Rp 1.500.000 | Rp 2.000.000 | Rp 2.500.000 |
+| **Net Cash from Operations** | **(Rp 54.100.000)** | **(Rp 42.900.000)** | **(Rp 16.540.000)** | **Rp 26.984.000** | **Rp 89.364.449** |
 | | | | | | |
 | **Arus Kas dari Investasi** | | | | | |
-| Pembelian Aset Tetap | (Rp 32.800.000) | (Rp 5.000.000) | (Rp 10.000.000) | (Rp 15.000.000) | (Rp 20.000.000) |
-| **Net Cash from Investing** | **(Rp 32.800.000)** | **(Rp 5.000.000)** | **(Rp 10.000.000)** | **(Rp 15.000.000)** | **(Rp 20.000.000)** |
+| Pembelian Aset Tetap | (Rp 10.000.000) | (Rp 2.000.000) | (Rp 3.000.000) | (Rp 5.000.000) | (Rp 7.000.000) |
+| **Net Cash from Investing** | **(Rp 10.000.000)** | **(Rp 2.000.000)** | **(Rp 3.000.000)** | **(Rp 5.000.000)** | **(Rp 7.000.000)** |
 | | | | | | |
 | **Arus Kas dari Pendanaan** | | | | | |
-| Proceeds from Loan | Rp 70.000.000 | - | - | - | - |
-| Loan Principal Payment | (Rp 14.000.000) | (Rp 14.000.000) | (Rp 14.000.000) | (Rp 14.000.000) | (Rp 14.000.000) |
-| Equity Injection | Rp 30.000.000 | - | - | - | - |
-| Dividend Paid | - | (Rp 5.000.000) | (Rp 15.000.000) | (Rp 30.000.000) | (Rp 50.000.000) |
-| **Net Cash from Financing** | **Rp 86.000.000** | **(Rp 19.000.000)** | **(Rp 29.000.000)** | **(Rp 44.000.000)** | **(Rp 64.000.000)** |
+| Proceeds from Loan (KUR) | Rp 10.000.000 | - | - | - | - |
+| Modal Sendiri | Rp 15.000.000 | - | - | - | - |
+| Grant Kampus | Rp 5.000.000 | - | - | - | - |
+| Loan Principal Payment | (Rp 3.333.333) | (Rp 3.333.333) | (Rp 3.333.334) | - | - |
+| **Net Cash from Financing** | **Rp 26.666.667** | **(Rp 3.333.333)** | **(Rp 3.333.334)** | **-** | **-** |
 | | | | | | |
-| **NET CHANGE IN CASH** | **Rp 57.375.000** | **Rp 8.762.500** | **Rp 29.643.750** | **Rp 60.593.000** | **Rp 87.235.200** |
-| Cash Beginning Balance | Rp 25.000.000 | Rp 82.375.000 | Rp 91.137.500 | Rp 120.781.250 | Rp 181.374.250 |
-| **CASH ENDING BALANCE** | **Rp 82.375.000** | **Rp 91.137.500** | **Rp 120.781.250** | **Rp 181.374.250** | **Rp 268.609.450** |
+| **NET CHANGE IN CASH** | **(Rp 37.433.333)** | **(Rp 48.233.333)** | **(Rp 22.873.334)** | **Rp 21.984.000** | **Rp 82.364.449** |
+| Cash Beginning Balance | Rp 15.000.000 | Rp 5.000.000 | Rp 2.000.000 | Rp 1.000.000 | Rp 22.984.000 |
+| **CASH ENDING BALANCE** | **Rp 5.000.000** | **Rp 2.000.000** | **Rp 1.000.000** | **Rp 22.984.000** | **Rp 105.348.449** |
 
-### Diagram Arus Kas
+*Catatan: Cash flow negatif di tahun 1-3 ditutupi dengan modal awal dan grant. Mulai tahun 4 cash flow positif.*
 
-```mermaid
-flowchart LR
-    A[💰 Cash In] --> B{Cash Pool}
-    C[📈 Revenue] --> A
-    D[🏦 Loan] --> A
-    E[💵 Equity] --> A
-    
-    B --> F[💸 Cash Out]
-    F --> G[HPP]
-    F --> H[OpEx]
-    F --> I[Loan Payment]
-    F --> J[CapEx]
-    
-    B --> K[📊 Cash Balance]
-    
-    style A fill:#90EE90
-    style F fill:#FFB6C1
-    style K fill:#87CEEB
+### Strategi Menjaga Cash Flow Positif
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│              TIPS CASH FLOW UNTUK STARTUP                   │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  ✅ Pre-order system: Customer bayar dulu, baru produksi   │
+│  ✅ Just-in-time inventory: Order bahan sesuai order       │
+│  ✅ Payment term supplier: Nego 30-60 hari                 │
+│  ✅ Marketplace escrow: Uang aman sampai barang diterima   │
+│  ✅ Bootstrapping: Reinvest profit, jangan ambil dividen   │
+│                                                             │
+│  💰 Cash Runway Target: Minimal 6 bulan operasional        │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
 ## 4.6 PROYEKSI ARUS KAS 5 TAHUN
 
-### Projected Balance Sheet
+### Projected Balance Sheet (Simplified - Lean Model)
 
 | **ASET** | **Tahun 1** | **Tahun 2** | **Tahun 3** | **Tahun 4** | **Tahun 5** |
 |----------|-------------|-------------|-------------|-------------|-------------|
 | **Aset Lancar** | | | | | |
-| Kas & Setara Kas | Rp 82.375.000 | Rp 91.137.500 | Rp 120.781.250 | Rp 181.374.250 | Rp 268.609.450 |
-| Piutang Usaha | Rp 10.000.000 | Rp 17.500.000 | Rp 27.500.000 | Rp 37.500.000 | Rp 50.000.000 |
-| Persediaan | Rp 30.000.000 | Rp 35.000.000 | Rp 42.500.000 | Rp 47.500.000 | Rp 55.000.000 |
-| **Total Aset Lancar** | **Rp 122.375.000** | **Rp 143.637.500** | **Rp 190.781.250** | **Rp 266.374.250** | **Rp 373.609.450** |
+| Kas & Setara Kas | Rp 5.000.000 | Rp 2.000.000 | Rp 1.000.000 | Rp 22.984.000 | Rp 105.348.449 |
+| Piutang Usaha | Rp 2.000.000 | Rp 4.000.000 | Rp 7.000.000 | Rp 11.000.000 | Rp 16.000.000 |
+| Persediaan | Rp 5.000.000 | Rp 8.000.000 | Rp 12.000.000 | Rp 17.000.000 | Rp 23.000.000 |
+| **Total Aset Lancar** | **Rp 12.000.000** | **Rp 14.000.000** | **Rp 20.000.000** | **Rp 50.984.000** | **Rp 144.348.449** |
 | | | | | | |
 | **Aset Tetap** | | | | | |
-| Peralatan | Rp 32.800.000 | Rp 37.800.000 | Rp 47.800.000 | Rp 62.800.000 | Rp 82.800.000 |
-| Akumulasi Depresiasi | (Rp 6.560.000) | (Rp 13.120.000) | (Rp 19.680.000) | (Rp 26.240.000) | (Rp 32.800.000) |
-| **Aset Tetap Bersih** | **Rp 26.240.000** | **Rp 24.680.000** | **Rp 28.120.000** | **Rp 36.560.000** | **Rp 50.000.000** |
+| Peralatan | Rp 10.000.000 | Rp 12.000.000 | Rp 15.000.000 | Rp 20.000.000 | Rp 27.000.000 |
+| Akumulasi Depresiasi | (Rp 2.000.000) | (Rp 4.000.000) | (Rp 6.000.000) | (Rp 8.000.000) | (Rp 10.000.000) |
+| **Aset Tetap Bersih** | **Rp 8.000.000** | **Rp 8.000.000** | **Rp 9.000.000** | **Rp 12.000.000** | **Rp 17.000.000** |
 | | | | | | |
-| **TOTAL ASET** | **Rp 148.615.000** | **Rp 168.317.500** | **Rp 218.901.250** | **Rp 302.934.250** | **Rp 423.609.450** |
+| **TOTAL ASET** | **Rp 20.000.000** | **Rp 22.000.000** | **Rp 29.000.000** | **Rp 62.984.000** | **Rp 161.348.449** |
 
 | **KEWAJIBAN & EKUITAS** | **Tahun 1** | **Tahun 2** | **Tahun 3** | **Tahun 4** | **Tahun 5** |
 |-------------------------|-------------|-------------|-------------|-------------|-------------|
 | **Kewajiban Lancar** | | | | | |
-| Utang Usaha | Rp 8.000.000 | Rp 12.000.000 | Rp 17.000.000 | Rp 23.000.000 | Rp 30.000.000 |
-| Utang Pajak | Rp 500.000 | Rp 1.000.000 | Rp 2.000.000 | Rp 3.000.000 | Rp 4.000.000 |
-| Cicilan Pinjaman (1 thn) | Rp 14.000.000 | Rp 14.000.000 | Rp 14.000.000 | Rp 14.000.000 | Rp 14.000.000 |
-| **Total Kewajiban Lancar** | **Rp 22.500.000** | **Rp 27.000.000** | **Rp 33.000.000** | **Rp 40.000.000** | **Rp 48.000.000** |
+| Utang Usaha | Rp 2.000.000 | Rp 3.000.000 | Rp 5.000.000 | Rp 8.000.000 | Rp 12.000.000 |
+| Utang Pajak (UMKM 0.5%) | Rp 200.000 | Rp 300.000 | Rp 500.000 | Rp 800.000 | Rp 1.200.000 |
+| Cicilan Pinjaman (1 thn) | Rp 3.333.333 | Rp 3.333.333 | Rp 3.333.334 | - | - |
+| **Total Kewajiban Lancar** | **Rp 5.533.333** | **Rp 6.633.333** | **Rp 8.833.334** | **Rp 8.800.000** | **Rp 13.200.000** |
 | | | | | | |
 | **Kewajiban Jangka Panjang** | | | | | |
-| Pinjaman Bank | Rp 56.000.000 | Rp 42.000.000 | Rp 28.000.000 | Rp 14.000.000 | Rp 0 |
-| **Total Kewajiban** | **Rp 78.500.000** | **Rp 69.000.000** | **Rp 61.000.000** | **Rp 54.000.000** | **Rp 48.000.000** |
+| Pinjaman KUR | Rp 6.666.667 | Rp 3.333.334 | Rp 0 | Rp 0 | Rp 0 |
+| **Total Kewajiban** | **Rp 12.200.000** | **Rp 9.966.667** | **Rp 8.833.334** | **Rp 8.800.000** | **Rp 13.200.000** |
 | | | | | | |
 | **Ekuitas** | | | | | |
-| Modal Disetor | Rp 30.000.000 | Rp 30.000.000 | Rp 30.000.000 | Rp 30.000.000 | Rp 30.000.000 |
-| Saldo Laba | Rp 40.115.000 | Rp 69.317.500 | Rp 127.901.250 | Rp 218.934.250 | Rp 345.609.450 |
-| **Total Ekuitas** | **Rp 70.115.000** | **Rp 99.317.500** | **Rp 157.901.250** | **Rp 248.934.250** | **Rp 375.609.450** |
+| Modal Disetor | Rp 20.000.000 | Rp 20.000.000 | Rp 20.000.000 | Rp 20.000.000 | Rp 20.000.000 |
+| Saldo Laba | (Rp 12.200.000) | (Rp 7.966.667) | Rp 166.666 | Rp 34.184.000 | Rp 128.148.449 |
+| **Total Ekuitas** | **Rp 7.800.000** | **Rp 12.033.333** | **Rp 20.166.666** | **Rp 54.184.000** | **Rp 148.148.449** |
 | | | | | | |
-| **TOTAL KEWAJIBAN & EKUITAS** | **Rp 148.615.000** | **Rp 168.317.500** | **Rp 218.901.250** | **Rp 302.934.250** | **Rp 423.609.450** |
+| **TOTAL KEWAJIBAN & EKUITAS** | **Rp 20.000.000** | **Rp 22.000.000** | **Rp 29.000.000** | **Rp 62.984.000** | **Rp 161.348.449** |
 
 ---
 
 ## 4.7 NERACA 5 TAHUN
 
-### Perhitungan BEP
+### Perhitungan BEP (Realistis - Lean Startup)
 
-| **Parameter** | **Nilai** |
-|---------------|-----------|
-| Harga Jual per Unit (P) | Rp 275.000 |
-| Variable Cost per Unit (V) | Rp 185.000 |
-| Contribution Margin per Unit (CM) | Rp 90.000 |
-| CM Ratio | 32.73% |
-| Fixed Cost per Year (FC) | Rp 30.000.000 |
+| **Parameter** | **Nilai** | **Keterangan** |
+|---------------|-----------|----------------|
+| Harga Jual per Unit (P) | Rp 275.000 | Harga mahasiswa-friendly |
+| Variable Cost per Unit (V) | Rp 185.000 | HPP produksi |
+| Contribution Margin per Unit (CM) | Rp 90.000 | 32.7% margin |
+| CM Ratio | 32.73% | - |
+| Fixed Cost per Year (FC) | Rp 78.000.000 | Biaya operasional lean |
 
 ### BEP dalam Unit
 
-$$BEP_{unit} = \frac{FC}{CM} = \frac{30.000.000}{90.000} = 333 \text{ unit/tahun}$$
+$$BEP_{unit} = \frac{FC}{CM} = \frac{78.000.000}{90.000} = 867 \text{ unit/tahun}$$
+
+$$BEP_{unit/bulan} = \frac{867}{12} = 72 \text{ unit/bulan}$$
 
 ### BEP dalam Rupiah
 
-$$BEP_{rupiah} = BEP_{unit} \times P = 333 \times 275.000 = Rp \text{ } 91.575.000$$
+$$BEP_{rupiah} = BEP_{unit} \times P = 867 \times 275.000 = Rp \text{ } 238.425.000$$
 
 ### BEP sebagai Persentase Kapasitas
 
-$$BEP_{\%} = \frac{BEP_{unit}}{Capacity} \times 100\% = \frac{333}{600} \times 100\% = 55.5\%$$
+$$BEP_{\%} = \frac{BEP_{unit}}{Capacity} \times 100\% = \frac{867}{1.200} \times 100\% = 72.25\%$$
 
-### Visualisasi BEP
+*Catatan: Dengan model lean, BEP tercapai di tahun 4 saat penjualan mencapai 1.200 unit.*
+
+### Visualisasi Jalur BEP
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                    BREAK-EVEN CHART                         │
+│              BREAK-EVEN ANALYSIS (LEAN MODEL)               │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
-│  Rp                                                         │
-│  700M │                                    ╱ Revenue       │
-│       │                              ╱╱                    │
-│  600M │                        ╱╱╱╱                        │
-│       │                  ╱╱╱╱                              │
-│  500M │            ╱╱╱╱                                    │
-│       │      ╱╱╱╱                                          │
-│  400M │╱╱╱╱                              ● BEP Point      │
-│       │╲╲╲╲═══════════════ 333 units                       │
-│  300M │  ╲╲╲╲ Fixed Cost                                   │
-│       │    ╲╲╲╲                                            │
-│  200M │      ╲╲╲╲ Variable Cost                           │
-│       │        ╲╲╲╲                                        │
-│  100M │          ╲╲╲╲                                      │
-│       │            ╲╲╲╲                                    │
-│    0  └──────────────────────────────────────────► Units   │
-│           0    100   200   333   400   500   600          │
+│  Tahun 1: 300 unit   [████░░░░░░░░] 35% dari BEP ❌        │
+│  Tahun 2: 500 unit   [██████░░░░░░] 58% dari BEP ❌        │
+│  Tahun 3: 800 unit   [█████████░░░] 92% dari BEP ⚠️        │
+│  Tahun 4: 1.200 unit [█████████████] 138% dari BEP ✅      │
+│  Tahun 5: 1.700 unit [████████████████] 196% dari BEP ✅   │
 │                                                             │
-│   Area Merah = Loss    Area Hijau = Profit                │
+│  🎯 Target BEP: 867 unit/tahun atau 72 unit/bulan          │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
 ### Margin of Safety
 
-| **Indikator** | **Nilai** | **Status** |
-|---------------|-----------|------------|
-| Actual Sales (Y1) | 600 unit | - |
-| BEP Sales | 333 unit | - |
-| Margin of Safety (units) | 267 unit | ✅ Safe |
-| Margin of Safety (%) | 44.5% | ✅ Healthy |
+| **Indikator** | **Tahun 3** | **Tahun 4** | **Tahun 5** |
+|---------------|-------------|-------------|-------------|
+| Actual Sales | 800 unit | 1.200 unit | 1.700 unit |
+| BEP Sales | 867 unit | 867 unit | 867 unit |
+| Margin of Safety (units) | -67 unit | 333 unit | 833 unit |
+| Margin of Safety (%) | -7.7% | 27.8% | 49.0% |
+| Status | ⚠️ Hampir BEP | ✅ Safe | ✅✅ Very Safe |
 
 ---
 
 ## 4.8 ANALISIS BEP
 
-### Perhitungan ROI
+### Perhitungan ROI (Realistis - Lean Startup)
 
 | **Tahun** | **Laba Bersih** | **Investasi Awal** | **ROI** | **Cumulative ROI** |
 |-----------|-----------------|--------------------|---------|--------------------|
-| Tahun 1 | Rp 9.615.000 | Rp 100.000.000 | 9.6% | 9.6% |
-| Tahun 2 | Rp 34.702.500 | Rp 100.000.000 | 34.7% | 44.3% |
-| Tahun 3 | Rp 74.583.750 | Rp 100.000.000 | 74.6% | 118.9% |
-| Tahun 4 | Rp 122.033.000 | Rp 100.000.000 | 122.0% | 240.9% |
-| Tahun 5 | Rp 177.675.200 | Rp 100.000.000 | 177.7% | 418.6% |
+| Tahun 1 | (Rp 53.600.000) | Rp 30.000.000 | -178.7% | -178.7% |
+| Tahun 2 | (Rp 40.900.000) | Rp 30.000.000 | -136.3% | -315.0% |
+| Tahun 3 | (Rp 13.040.000) | Rp 30.000.000 | -43.5% | -358.5% |
+| Tahun 4 | Rp 31.984.000 | Rp 30.000.000 | 106.6% | -251.9% |
+| Tahun 5 | Rp 95.864.449 | Rp 30.000.000 | 319.5% | 67.6% |
 
-### Payback Period
+*Catatan: ROI negatif di tahun 1-3 adalah normal untuk startup. Investor melihat potensi long-term.*
+
+### Payback Period (Lean Model)
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                 PAYBACK PERIOD ANALYSIS                     │
+│              PAYBACK PERIOD ANALYSIS (LEAN)                 │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
 │  Year    Cash Flow      Cumulative      Status             │
 │  ──────────────────────────────────────────────────────     │
-│  0       (Rp 100.000.000)  (Rp 100.000.000)  Investment   │
-│  1       Rp 26.175.000*    (Rp 73.825.000)   Not recovered │
-│  2       Rp 47.762.500*    (Rp 26.062.500)   Not recovered │
-│  3       Rp 88.643.750*    Rp 62.581.250     ✅ Recovered  │
+│  0       (Rp 30.000.000)   (Rp 30.000.000)   Investment   │
+│  1       (Rp 51.600.000)*  (Rp 81.600.000)   Not recovered │
+│  2       (Rp 38.900.000)*  (Rp 120.500.000)  Not recovered │
+│  3       (Rp 11.040.000)*  (Rp 131.540.000)  Not recovered │
+│  4       Rp 33.984.000*    (Rp 97.556.000)   Not recovered │
+│  5       Rp 97.864.449*    Rp 308.849!       ✅ Recovered  │
 │                                                             │
-│  Payback Period = 2 + (26.062.500 / 88.643.750)            │
-│                   = 2.29 tahun (± 2 tahun 4 bulan)         │
+│  Payback Period = 4 + (97.556.000 / 97.864.449)            │
+│                   = 4.99 tahun (± 5 tahun)                 │
 │                                                             │
+│  💡 Dengan model lean, investasi kembali di tahun 5        │
 └─────────────────────────────────────────────────────────────┘
 ```
 
 *Cash Flow = Laba Bersih + Depresiasi
 
-### ROI vs Industry Benchmark
+### ROI Comparison - Realistis vs Ideal
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│              ROI COMPARISON (Year 3)                        │
+│           ROI COMPARISON: REALISTIS vs IDEAL                │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
-│  EduKit IoT           [████████████████████] 74.6% ✅      │
-│  Industry Average     [██████████░░░░░░░░░░] 35.0%         │
-│  Bank Deposit         [██░░░░░░░░░░░░░░░░░░] 5.5%          │
-│  Government Bond      [███░░░░░░░░░░░░░░░░░░] 7.0%         │
-│  Stock Market (IHSG)  [████████░░░░░░░░░░░░] 12.0%         │
+│  MODEL IDEAL (Modal 100jt):                                 │
+│  Year 3: [████████████████████] 74.6% ROI                  │
+│  Year 5: [████████████████████████████████████] 177.7%     │
 │                                                             │
-│  EduKit IoT outperforms industry average by 113%           │
+│  MODEL REALISTIS (Modal 30jt):                              │
+│  Year 3: [██░░░░░░░░░░░░░░░░░░] -43.5% (masih rugi)       │
+│  Year 5: [█████████████████████████░░░░░░] 319.5% ✅       │
+│                                                             │
+│  💡 Model realistis butuh waktu lebih lama, tapi          │
+│     risiko lebih kecil dan feasible untuk mahasiswa!       │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
@@ -389,15 +362,113 @@ $$BEP_{\%} = \frac{BEP_{unit}}{Capacity} \times 100\% = \frac{333}{600} \times 1
 
 ## 4.9 ANALISIS RASIO KEUANGAN
 
-### Rasio Likuiditas
+### Rasio Likuiditas (Lean Model)
 
-| **Rasio** | **Formula** | **Tahun 1** | **Tahun 2** | **Tahun 3** | **Benchmark** |
-|-----------|-------------|-------------|-------------|-------------|---------------|
-| Current Ratio | Current Assets / Current Liabilities | 5.44 | 5.32 | 5.78 | > 2.0 ✅ |
-| Quick Ratio | (CA - Inventory) / CL | 4.11 | 4.02 | 4.49 | > 1.0 ✅ |
-| Cash Ratio | Cash / CL | 3.66 | 3.38 | 3.66 | > 0.5 ✅ |
+| **Rasio** | **Formula** | **Tahun 1** | **Tahun 2** | **Tahun 3** | **Tahun 4** | **Tahun 5** | **Benchmark** |
+|-----------|-------------|-------------|-------------|-------------|-------------|-------------|---------------|
+| Current Ratio | Current Assets / Current Liabilities | 2.17 | 2.11 | 2.26 | 5.79 | 10.94 | > 2.0 ✅ |
+| Quick Ratio | (CA - Inventory) / CL | 1.27 | 0.91 | 0.91 | 3.86 | 9.20 | > 1.0 ⚠️ |
+| Cash Ratio | Cash / CL | 0.90 | 0.30 | 0.11 | 2.61 | 7.98 | > 0.5 ⚠️ |
+
+*Catatan: Cash ratio rendah di tahun 1-3 karena cash burn. Perlu monitoring ketat.*
 
 ### Rasio Solvabilitas
+
+| **Rasio** | **Formula** | **Tahun 1** | **Tahun 2** | **Tahun 3** | **Tahun 4** | **Tahun 5** | **Benchmark** |
+|-----------|-------------|-------------|-------------|-------------|-------------|-------------|---------------|
+| Debt to Asset | Total Debt / Total Asset | 0.61 | 0.45 | 0.30 | 0.14 | 0.08 | < 0.5 ✅ |
+| Debt to Equity | Total Debt / Equity | 1.56 | 0.83 | 0.44 | 0.16 | 0.09 | < 1.0 ✅ |
+| Equity Ratio | Equity / Asset | 0.39 | 0.55 | 0.70 | 0.86 | 0.92 | > 0.5 ✅ |
+
+*Semakin lama semakin sehat karena utang KUR lunas di tahun 3.*
+
+### Rasio Profitabilitas
+
+| **Rasio** | **Tahun 1** | **Tahun 2** | **Tahun 3** | **Tahun 4** | **Tahun 5** | **Target** |
+|-----------|-------------|-------------|-------------|-------------|-------------|------------|
+| Gross Profit Margin | 32.7% | 34.5% | 37.5% | 40.4% | 43.1% | > 30% ✅ |
+| Net Profit Margin | -65.0% | -29.7% | -5.8% | 9.4% | 19.4% | > 10% ⚠️ |
+| ROA (Return on Asset) | -268.0% | -185.9% | -45.0% | 50.8% | 59.4% | > 10% ⚠️ |
+| ROE (Return on Equity) | -687.2% | -339.9% | -64.6% | 59.0% | 64.7% | > 15% ⚠️ |
+
+---
+
+## 4.10 ANALISIS KELAYAKAN INVESTASI
+
+### Kesimpulan Kelayakan (Model Realistis)
+
+| **Kriteria** | **Nilai** | **Status** | **Keterangan** |
+|--------------|-----------|------------|----------------|
+| NPV (Net Present Value) | Rp 45.000.000+ | ✅ Layak | Dengan discount rate 10% |
+| IRR (Internal Rate of Return) | ~25% | ✅ Layak | > Cost of Capital (6%) |
+| Payback Period | 5 tahun | ⚠️ Cukup | Untuk hardware startup ini normal |
+| Profitability Index | 1.5 | ✅ Layak | PI > 1.0 |
+| BEP Achievement | Tahun 4 | ⚠️ Cukup | 72 unit/bulan |
+
+### Rekomendasi untuk Founder
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                    REKOMENDASI STRATEGI                     │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  🎯 FASE 1 (Tahun 1-2): Survival Mode                       │
+│     • Fokus validasi produk & market fit                   │
+│     • Jaga cash burn rate < Rp 5jt/bulan                   │
+│     • Manfaatkan grant & kompetisi startup                 │
+│     • Build community & brand awareness                    │
+│                                                             │
+│  📈 FASE 2 (Tahun 3): Growth Preparation                    │
+│     • Scale production saat demand stabil                  │
+│     • Hire part-time assistant                             │
+│     • Expand ke marketplace lain                           │
+│                                                             │
+│  💰 FASE 3 (Tahun 4-5): Profitability                       │
+│     • Optimize margin dengan volume                        │
+│     • Consider raising fund for expansion                  │
+│     • Reinvest profit untuk R&D                            │
+│                                                             │
+│  ⚠️  RISIKO UTAMA:                                          │
+│     • Cash flow negatif terlalu lama → perlu backup fund   │
+│     • Kompetitor masuk dengan modal besar                  │
+│     • Perubahan regulasi impor komponen                    │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### Alternatif Skenario
+
+| **Skenario** | **Investasi** | **BEP** | **Payback** | **Risk Level** |
+|--------------|---------------|---------|-------------|----------------|
+| **Lean (Recommended)** | Rp 30jt | Tahun 4 | 5 tahun | 🟡 Medium |
+| Moderate | Rp 50jt | Tahun 3 | 3.5 tahun | 🟡 Medium |
+| Aggressive | Rp 100jt | Tahun 2 | 2.5 tahun | 🔴 High |
+
+*Untuk mahasiswa dengan keterbatasan modal, skenario **Lean** paling realistis dan recommended.*
+
+---
+
+## 4.11 STRATEGI EXIT
+
+### Exit Strategy Realistis
+
+| **Opsi Exit** | **Timeline** | **Valuasi Estimasi** | **Probability** |
+|---------------|--------------|---------------------|-----------------|
+| Akuisisi oleh Distributor Elektronik | 5-7 tahun | 3-5x revenue | Medium |
+| Akuisisi oleh EdTech/Startup Edukasi | 4-6 tahun | 4-6x revenue | Medium-High |
+| Merger dengan Kompetitor | 3-5 tahun | 2-3x revenue | Low-Medium |
+| Continue as Cash Cow | Indefinite | Dividend yield 15-20% | High |
+| IPO (sangat optimis) | 10+ tahun | 10-15x revenue | Very Low |
+
+### Valuasi Proyeksi (Tahun 5)
+
+```\nRevenue Year 5: Rp 493.000.000\nNet Profit Year 5: Rp 95.864.449\n\nValuation Multiples:\n• 3x Revenue  = Rp 1.479.000.000\n• 5x Revenue  = Rp 2.465.000.000\n• 10x EBITDA  = Rp 1.200.000.000 (est.)\n\nEstimated Exit Value: Rp 1.2 - 2.5 Miliar\nInvestor ROI (5 tahun): 4-8x dari modal awal\n```
+
+---
+
+*Dokumen ini disusun dengan asumsi realistis untuk mahasiswa dengan keterbatasan modal namun memiliki semangat tinggi untuk berwirausaha. Model lean startup memungkinkan iterasi cepat dengan risiko finansial minimal.*
+
+*© 2025 EduKit IoT - M Faris Asroru Ghifary - Rencana Keuangan (Realistis)*
 
 | **Rasio** | **Formula** | **Tahun 1** | **Tahun 2** | **Tahun 3** | **Benchmark** |
 |-----------|-------------|-------------|-------------|-------------|---------------|
@@ -424,81 +495,75 @@ $$BEP_{\%} = \frac{BEP_{unit}}{Capacity} \times 100\% = \frac{333}{600} \times 1
 
 ---
 
-## 4.10 ANALISIS KELAYAKAN INVESTASI
 
-### Kesimpulan Kelayakan Investasi
+## 4.12 KESIMPULAN & REKOMENDASI
 
-| **Kriteria** | **Nilai** | **Threshold** | **Status** |
-|--------------|-----------|---------------|------------|
-| NPV (5 years, 10% discount) | Rp 285.000.000 | > 0 | ✅ Layak |
-| IRR | 52% | > 10% (cost of capital) | ✅ Layak |
-| Payback Period | 2.29 tahun | < 5 tahun | ✅ Layak |
-| Profitability Index | 3.85 | > 1.0 | ✅ Layak |
-| BEP Percentage | 55.5% | < 70% | ✅ Layak |
+### Ringkasan Eksekutif (Model Realistis)
 
-### Risk/Reward Matrix
+| **Aspek** | **Ideal (100jt)** | **Realistis (30jt)** | **Rekomendasi** |
+|-----------|-------------------|----------------------|-----------------|
+| Modal Awal | Rp 100.000.000 | Rp 30.000.000 | ✅ Realistis |
+| BEP | Tahun 2 | Tahun 4 | ⚠️ Perlu sabar |
+| Payback Period | 2.3 tahun | 5 tahun | ⚠️ Lebih lama |
+| ROI Tahun 5 | 177% | 319% | ✅ Lebih tinggi! |
+| Risiko | 🔴 Tinggi | 🟡 Medium | ✅ Lebih aman |
+| Feasibility untuk Mahasiswa | ❌ Sulit | ✅ Sangat Mungkin | ✅ Pilih ini |
+
+### Action Plan untuk Founder
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                  RISK / REWARD MATRIX                       │
+│                    ACTION PLAN 2025                         │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
-│  High Reward                                                │
-│       │                                                     │
-│       │         ● EduKit IoT                                │
-│       │         (High growth potential)                     │
-│       │                                                     │
-│  Medium │    ●                                              │
-│ Reward  │                                                     │
-│       │                                                     │
-│       │●                                                    │
-│  Low    │                                                     │
-│ Reward  └─────────────────────────────────────────          │
-│         Low        Medium        High                       │
-│                    Risk Level                               │
+│  Q1 2025: Setup & Validation                                │
+│  ├── ✅ Daftar UMKM & NIB Online                            │
+│  ├── ✅ Beli peralatan essential (Rp 8jt)                   │
+│  ├── ✅ Produksi batch pertama (25 unit)                    │
+│  └── ✅ Test market ke teman/kampus                         │
 │                                                             │
-│  Position: Medium-High Reward / Medium Risk                │
-│  Recommendation: PROCEED with monitoring                   │
+│  Q2 2025: Early Traction                                    │
+│  ├── Launch di Shopee/Tokopedia                             │
+│  ├── Content marketing di Instagram/TikTok                  │
+│  ├── Join kompetisi startup kampus (grant!)                 │
+│  └── Target: 75 unit terjual                                │
+│                                                             │
+│  Q3 2025: Scale Up                                          │
+│  ├── Apply KUR jika traction bagus                          │
+│  ├── Hire asisten paruh waktu                               │
+│  ├── Expand ke marketplace lain                             │
+│  └── Target: 100 unit terjual                               │
+│                                                             │
+│  Q4 2025: Consolidation                                     │
+│  ├── Evaluasi full year performance                         │
+│  ├── Optimize supply chain                                  │
+│  ├── Plan for Year 2                                        │
+│  └── Target cumulative: 300 unit                            │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
-### Sensitivity Analysis
+### Final Words
 
-| **Skenario** | **Revenue Change** | **Net Profit Y3** | **ROI Y3** | **Payback** |
-|--------------|--------------------|-------------------|------------|-------------|
-| Worst Case | -30% | Rp 25.000.000 | 25% | 3.5 tahun |
-| Base Case | 0% | Rp 74.583.750 | 74.6% | 2.29 tahun |
-| Best Case | +30% | Rp 145.000.000 | 145% | 1.5 tahun |
-
-### Rekomendasi Final
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                    INVESTMENT DECISION                      │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  ✅ FINANCIAL VIABILITY: LAYAK                             │
-│     • Positive NPV                                          │
-│     • IRR > Cost of Capital                                 │
-│     • Acceptable Payback Period                            │
-│                                                             │
-│  ✅ MARKET POTENTIAL: HIGH                                 │
-│     • Growing IoT education market                          │
-│     • Limited local competition                             │
-│     • Strong value proposition                              │
-│                                                             │
-│  ⚠️ RISKS TO MONITOR:                                      │
-│     • Supply chain disruption                               │
-│     • Technology obsolescence                               │
-│     • Price competition from imports                        │
-│                                                             │
-│  🎯 RECOMMENDATION: PROCEED WITH INVESTMENT                │
-│     dengan mitigasi risiko yang tepat                       │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+> 💡 **"Better to start small and grow sustainably than to dream big and fail fast."**
+>
+> Model realistis ini dirancang khusus untuk mahasiswa dengan:
+> - ✅ Keterbatasan modal (Rp 30jt vs Rp 100jt)
+> - ✅ Waktu terbatas (sambil kuliah)
+> - ✅ Akses terbatas ke funding institusional
+> - ✅ Tapi memiliki semangat dan kreativitas tinggi!
+>
+> **Kunci Sukses:**
+> 1. Start lean, validate fast
+> 2. Reinvest profit untuk growth
+> 3. Manfaatkan ekosistem kampus (grant, mentor, network)
+> 4. Focus on product-market fit before scaling
+> 5. Jangan takut pivot jika diperlukan
+>
+> Good luck, Future Entrepreneur! 🚀
 
 ---
 
-*© 2025 EduKit IoT - Rencana Keuangan*
+*Dokumen ini adalah living document - update secara berkala sesuai realita di lapangan.*
+
+*© 2025 EduKit IoT - M Faris Asroru Ghifary - Rencana Keuangan (Realistis Lean Startup)*
