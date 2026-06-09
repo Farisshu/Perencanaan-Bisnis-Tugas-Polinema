@@ -140,15 +140,14 @@ flowchart TD
 | Utilisasi | 60% | Ramp-up phase |
 | Effective Output/Bulan | 105 unit | After utilization adjustment |
 
-### Proyeksi Kapasitas 5 Tahun
+### Proyeksi Kapasitas 5 Tahun (Model Realistis)
 
 | **Tahun** | **Target Penjualan** | **Kapasitas Dibutuhkan** | **Shift Required** | **Status** |
 |-----------|----------------------|--------------------------|--------------------|------------|
-| Tahun 1 | 600 unit | 50 unit/bulan | 1 shift | ✅ Feasible |
-| Tahun 2 | 900 unit | 75 unit/bulan | 1 shift + OT | ✅ Feasible |
-| Tahun 3 | 1.350 unit | 112 unit/bulan | 1.5 shift | ⚠️ Perlu penambahan |
-| Tahun 4 | 1.755 unit | 146 unit/bulan | 2 shift | ❌ Perlu ekspansi |
-| Tahun 5 | 2.282 unit | 190 unit/bulan | 2 shift + OT | ❌ Perlu ekspansi |
+| Tahun 1 | 300 unit | 25 unit/bulan | 1 shift (part-time) | ✅ Feasible |
+| Tahun 2 | 500 unit | 42 unit/bulan | 1 shift | ✅ Feasible |
+| Tahun 3 | 800 unit | 67 unit/bulan | 1 shift + OT | ✅ Feasible |
+| Tahun 4 | 1.200 unit | 100 unit/bulan | 1.5 shift | ⚠️ Perlu penambahan |\n| Tahun 5 | 1.750 unit | 146 unit/bulan | 2 shift | ⚠️ Perlu ekspansi |
 
 ---
 
