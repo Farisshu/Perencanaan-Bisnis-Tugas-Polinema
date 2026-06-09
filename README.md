@@ -5,28 +5,32 @@
 
 ---
 
-## 📊 EXECUTIVE DASHBOARD - FINANCIAL SNAPSHOT Y1
+## 📊 EXECUTIVE DASHBOARD - FINANCIAL SNAPSHOT Y1 (REALISTIS)
 
 ```
 ╔════════════════════════════════════════╗
 ║   EDUKIT IoT — FINANCIAL SNAPSHOT Y1   ║
 ╠════════════════════════════════════════╣
-║  Revenue Target : ████████░░ Rp 165jt  ║
-║  BEP Unit       : █████████░ 333 unit  ║
-║  ROI Estimasi   : ████████░░ ~9.6%     ║
-║  Payback Period : ███████░░░ ~2.3 thn  ║
+║  Modal Awal   : ██████░░░░ Rp 30jt     ║
+║  Revenue Target : █████░░░░░ Rp 82,5jt ║
+║  BEP Unit       : ████████░░ 867 unit  ║
+║  ROI Estimasi   : ░░░░░░░░░░ -178.7%* ║
+║  Payback Period : ██████████ ~5 thn    ║
 ╚════════════════════════════════════════╝
 ```
 
-### Key Metrics Overview
+### Key Metrics Overview (Model Realistis - Lean Startup)
 
 | **Metric** | **Target Y1** | **Status** | **Progress** |
 |------------|---------------|------------|--------------|
-| Penjualan | 600 unit | 🟢 On Track | ░░░░░░░░░░ 0% |
-| Revenue | Rp 165.000.000 | 🟢 On Track | ░░░░░░░░░░ 0% |
+| Penjualan | 300 unit | 🟡 Conservative | ░░░░░░░░░░ 0% |
+| Revenue | Rp 82.500.000 | 🟡 Conservative | ░░░░░░░░░░ 0% |
 | Gross Margin | 32.7% | 🟢 On Track | ░░░░░░░░░░ 32.7% |
-| Net Profit | Rp 9.615.000 | 🟢 On Track | ░░░░░░░░░░ 5.8% |
-| BEP Point | 333 unit | ✅ Achievable | 55.5% kapasitas |
+| Net Profit | (Rp 53.600.000) | 🔴 Loss (Building Phase) | Building market share |
+| BEP Point | 867 unit | ⚠️ Tahun 4 | 34.6% kapasitas Y1 |
+| Burn Rate | Rp 4.5jt/bulan | 🟢 Manageable | 6 bulan runway |
+
+*Catatan: ROI negatif di tahun pertama adalah normal untuk startup dalam fase building market share*
 
 ---
 
@@ -113,62 +117,64 @@ EduKit IoT adalah platform pembelajaran modular untuk embedded system dan Intern
 
 ## 📈 HIGHLIGHT KEUANGAN
 
-### Ringkasan Investasi
+### Ringkasan Investasi (Model Realistis)
 
 | **Komponen** | **Nilai (Rp)** | **%** |
 |--------------|----------------|-------|
-| Total Modal Dibutuhkan | 100.000.000 | 100% |
-| Modal Sendiri (Equity) | 30.000.000 | 30% |
-| Pinjaman Bank (Debt) | 70.000.000 | 70% |
+| Total Modal Dibutuhkan | 30.000.000 | 100% |
+| Modal Sendiri (Equity) | 15.000.000 | 50% |
+| KUR Subsidi (Debt) | 10.000.000 | 33% |
+| Grant Kampus | 5.000.000 | 17% |
 
-### Proyeksi 5 Tahun
+### Proyeksi 5 Tahun (Realistis - Lean Startup)
 
 | **Tahun** | **Revenue** | **Net Profit** | **ROI** |
 |-----------|-------------|----------------|---------|
-| Tahun 1 | Rp 165.000.000 | Rp 9.615.000 | 9.6% |
-| Tahun 2 | Rp 247.500.000 | Rp 34.702.500 | 34.7% |
-| Tahun 3 | Rp 371.250.000 | Rp 74.583.750 | 74.6% |
-| Tahun 4 | Rp 491.400.000 | Rp 122.033.000 | 122.0% |
-| Tahun 5 | Rp 638.960.000 | Rp 177.675.200 | 177.7% |
+| Tahun 1 | Rp 82.500.000 | (Rp 53.600.000) | -178.7% |
+| Tahun 2 | Rp 137.500.000 | (Rp 40.900.000) | -136.3% |
+| Tahun 3 | Rp 224.000.000 | (Rp 13.040.000) | -43.5% |
+| Tahun 4 | Rp 342.000.000 | Rp 31.984.000 | 106.6% |
+| Tahun 5 | Rp 493.000.000 | Rp 95.864.449 | 319.5% |
 
 ### Visualisasi Pertumbuhan Revenue
 
 ```
-Revenue Growth (5 Tahun)
+Revenue Growth (5 Tahun - Realistis)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Tahun 1  [████████░░░░░░░░░░░░░░░░░░░░] Rp 165jt
-Tahun 2  [████████████░░░░░░░░░░░░░░░░] Rp 248jt
-Tahun 3  [█████████████████░░░░░░░░░░░] Rp 371jt
-Tahun 4  [██████████████████████░░░░░░] Rp 491jt
-Tahun 5  [████████████████████████████] Rp 639jt
+Tahun 1  [████░░░░░░░░░░░░░░░░░░░░░░] Rp 82,5jt
+Tahun 2  [██████░░░░░░░░░░░░░░░░░░░░] Rp 137,5jt
+Tahun 3  [█████████░░░░░░░░░░░░░░░░░] Rp 224jt
+Tahun 4  [█████████████░░░░░░░░░░░░░] Rp 342jt
+Tahun 5  [█████████████████░░░░░░░░░] Rp 493jt
 
          └────────────────────────────────────────────────────
-         0        200jt     400jt     600jt     800jt
+         0        100jt     200jt     300jt     400jt     500jt
 ```
 
-### Break-Even Analysis
+### Break-Even Analysis (Realistis)
 
 | **Parameter** | **Nilai** | **Status** |
 |---------------|-----------|------------|
-| BEP Unit | 333 unit/tahun | ✅ Terjangkau |
-| BEP Rupiah | Rp 91.575.000 | ✅ Sehat |
-| BEP % Kapasitas | 55.5% | ✅ < 70% |
-| Margin of Safety | 44.5% | ✅ Baik |
+| BEP Unit | 867 unit/tahun | ⚠️ Tahun 4 |
+| BEP Rupiah | Rp 238.425.000 | ⚠️ Tahun 4 |
+| BEP % Kapasitas | 72.25% | ⚠️ Butuh scale-up |
+| Margin of Safety Y4 | 27.8% | ✅ Sehat |
+| Margin of Safety Y5 | 49.0% | ✅✅ Very Safe |
 
 ---
 
 ## 🎯 TARGET PASAR
 
-### Segmentasi
+### Segmentasi (Realistis - Lean Startup)
 
 | **Segmen** | **Target Y1** | **Revenue Target** |
 |------------|---------------|--------------------|
-| Mahasiswa Teknik | 300 unit (50%) | Rp 82.500.000 |
-| Siswa SMK | 150 unit (25%) | Rp 41.250.000 |
-| Hobbyist/DIY | 90 unit (15%) | Rp 24.750.000 |
-| Institusi Pendidikan | 60 unit (10%) | Rp 16.500.000 |
-| **Total** | **600 unit** | **Rp 165.000.000** |
+| Mahasiswa Teknik | 150 unit (50%) | Rp 41.250.000 |
+| Siswa SMK | 75 unit (25%) | Rp 20.625.000 |
+| Hobbyist/DIY | 45 unit (15%) | Rp 12.375.000 |
+| Institusi Pendidikan | 30 unit (10%) | Rp 8.250.000 |
+| **Total** | **300 unit** | **Rp 82.500.000** |
 
 ### Market Size
 
@@ -257,7 +263,7 @@ gantt
 | Firmware Beta | Jan 2025 | ✅ Done | ████████████████████ 100% |
 | PCB Production | Feb 2025 | ✅ Done | ████████████████████ 100% |
 | Legal Setup | Mar 2025 | 🟡 In Progress | ████████████░░░░░░░░ 60% |
-| First Batch (50 unit) | Apr 2025 | ⚪ Pending | ░░░░░░░░░░░░░░░░░░░░ 0% |
+| First Batch (30 unit) | Apr 2025 | ⚪ Pending | ░░░░░░░░░░░░░░░░░░░░ 0% |
 | Soft Launch | Mei 2025 | ⚪ Pending | ░░░░░░░░░░░░░░░░░░░░ 0% |
 | Grand Opening | Jun 2025 | ⚪ Pending | ░░░░░░░░░░░░░░░░░░░░ 0% |
 

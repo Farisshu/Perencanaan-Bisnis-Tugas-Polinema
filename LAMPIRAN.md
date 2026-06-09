@@ -34,42 +34,43 @@
 
 ## B. DAFTAR SUPPLIER
 
-### Supplier Lokal Indonesia
+### Supplier Lokal Indonesia (Rekomendasi untuk Startup Mahasiswa)
 
-| **Kategori** | **Nama Supplier** | **Lokasi** | **Kontak** | **Rating** |
-|--------------|-------------------|------------|------------|------------|
-| **Komponen Elektronik** | | | | |
-| | Tokopedia Electronic | Jakarta | tokopedia.com | ⭐⭐⭐⭐⭐ |
-| | Shopee Electronics | Surabaya | shopee.co.id | ⭐⭐⭐⭐⭐ |
-| | CV Jaya Elektronik | Jakarta | 021-xxxxxxx | ⭐⭐⭐⭐ |
-| **PCB Fabrication** | | | | |
-| | PCB Lokal Indonesia | Bandung | pcblok al.com | ⭐⭐⭐⭐ |
-| | JLCPCB (via reseller) | Online | jlcpcb.com | ⭐⭐⭐⭐⭐ |
-| **Packaging** | | | | |
-| | Packaging Indonesia | Malang | 0341-xxxxxxx | ⭐⭐⭐⭐ |
-| | Custom Box Supplier | Surabaya | 031-xxxxxxx | ⭐⭐⭐⭐ |
+| **Kategori** | **Nama Supplier** | **Lokasi** | **Kontak** | **Rating** | **Kelebihan** |
+|--------------|-------------------|------------|------------|------------|---------------|
+| **Komponen Elektronik** | | | | | |
+| | Tokopedia Electronic | Jakarta | tokopedia.com | ⭐⭐⭐⭐⭐ | Ready stock, COD available |
+| | Shopee Electronics | Surabaya | shopee.co.id | ⭐⭐⭐⭐⭐ | Cashback, gratis ongkir |
+| | CV Jaya Elektronik | Jakarta | 021-xxxxxxx | ⭐⭐⭐⭐ | Harga grosir, kredit 30 hari |
+| | Digikey Indonesia | Online | digikey.co.id | ⭐⭐⭐⭐⭐ | Original parts, datasheet lengkap |
+| **PCB Fabrication** | | | | | |
+| | PCB Lokal Indonesia | Bandung | pcblokal.com | ⭐⭐⭐⭐ | Support lokal, cepat |
+| | JLCPCB (via reseller) | Online | jlcpcb.com | ⭐⭐⭐⭐⭐ | Murah, kualitas baik |
+| **Packaging** | | | | | |
+| | Packaging Indonesia | Malang | 0341-xxxxxxx | ⭐⭐⭐⭐ | Custom design, MOQ rendah |
+| | Custom Box Supplier | Surabaya | 031-xxxxxxx | ⭐⭐⭐⭐ | Foam insert custom |
 
-### Supplier Impor
+### Supplier Impor (Untuk Komponen Khusus)
 
-| **Kategori** | **Nama Supplier** | **Negara** | **Website** | **MOQ** | **Lead Time** |
-|--------------|-------------------|------------|-------------|---------|---------------|
-| **ESP32 Module** | Espressif Official | China | espressif.com | 100 pcs | 14-21 hari |
-| | AliExpress Verified | China | aliexpress.com | 10 pcs | 7-14 hari |
-| **Sensor & IC** | Digi-Key Electronics | USA | digikey.com | 1 pcs | 5-10 hari |
-| | Mouser Electronics | USA | mouser.com | 1 pcs | 5-10 hari |
-| | LCSC Electronics | China | lcsc.com | 5 pcs | 7-14 hari |
-| **PCB Fabrication** | JLCPCB | China | jlcpcb.com | 5 pcs | 5-7 hari |
-| | PCBWay | China | pcbway.com | 5 pcs | 5-7 hari |
+| **Kategori** | **Nama Supplier** | **Negara** | **Website** | **MOQ** | **Lead Time** | **Catatan** |
+|--------------|-------------------|------------|-------------|---------|---------------|-------------|
+| **ESP32 Module** | Espressif Official | China | espressif.com | 100 pcs | 14-21 hari | Direct from manufacturer |
+| | AliExpress Verified | China | aliexpress.com | 10 pcs | 7-14 hari | Buyer protection |
+| **Sensor & IC** | Digi-Key Electronics | USA | digikey.com | 1 pcs | 5-10 hari | Original, fast shipping |
+| | Mouser Electronics | USA | mouser.com | 1 pcs | 5-10 hari | No MOQ, authentic |
+| | LCSC Electronics | China | lcsc.com | 5 pcs | 7-14 hari | Murah, populer di Asia |
+| **PCB Fabrication** | JLCPCB | China | jlcpcb.com | 5 pcs | 5-7 hari | Best value for money |
+| | PCBWay | China | pcbway.com | 5 pcs | 5-7 hari | Good quality, support custom |
 
-### Kriteria Pemilihan Supplier
+### Kriteria Pemilihan Supplier (Prioritas untuk Mahasiswa)
 
-| **Kriteria** | **Bobot** | **Deskripsi** |
-|--------------|-----------|---------------|
-| Harga | 30% | Kompetitif dengan kualitas setara |
-| Kualitas | 25% | Sesuai spesifikasi datasheet |
-| Lead Time | 20% | Waktu pengiriman singkat |
-| Minimum Order Qty | 15% | MOQ fleksibel untuk startup |
-| After-Sales Support | 10% | Garansi & return policy |
+| **Kriteria** | **Bobot** | **Deskripsi** | **Target** |
+|--------------|-----------|---------------|------------|
+| Harga | 30% | Kompetitif dengan kualitas setara | Sesuai budget mahasiswa |
+| Kualitas | 25% | Sesuai spesifikasi datasheet | Original/authentic only |
+| Minimum Order Qty | 20% | MOQ fleksibel untuk startup | < 50 pcs ideal |
+| Lead Time | 15% | Waktu pengiriman singkat | < 14 hari |
+| Payment Term | 10% | Fleksibilitas pembayaran | COD/escrow preferred |
 
 ---
 
@@ -145,28 +146,31 @@
 
 ## E. CATATAN ASUMSI & SUMBER DATA
 
-### Asumsi Finansial
+### Asumsi Finansial (Realistis - Lean Startup)
 
 | **Parameter** | **Nilai** | **Sumber/Justifikasi** |
 |---------------|-----------|------------------------|
 | Harga Jual/Unit | Rp 275.000 | Market research kompetitor (Grove, DFRobot) |
 | HPP/Unit | Rp 185.000 | Quotation supplier lokal & impor |
-| Growth Rate Y2-Y3 | 50%/tahun | Proyeksi konservatif berdasarkan TAM |
-| Growth Rate Y4-Y5 | 30%/tahun | Market saturation consideration |
-| Bunga Pinjaman | 10%/tahun | Survey BRI, BCA, Mandiri (KUR UMKM) |
+| Growth Rate Y2-Y3 | 60-67%/tahun | Proyeksi konservatif berdasarkan SOM |
+| Growth Rate Y4-Y5 | 42-50%/tahun | Market saturation consideration |
+| Bunga Pinjaman KUR | 6%/tahun | KUR subsidi pemerintah untuk UMKM |
 | Pajak UMKM | 0.5% | PMK No. 215/PMK.03/2018 |
 | Inflasi | 2-3%/tahun | Proyeksi Bank Indonesia |
 | Depresiasi Alat | 5 tahun | Standar akuntansi PSAK 16 |
+| Burn Rate | Rp 4.5jt/bulan | Fixed cost lean startup model |
+| Cash Runway Target | 6 bulan | Best practice untuk startup phase |
 
-### Asumsi Operasional
+### Asumsi Operasional (Model Mahasiswa)
 
 | **Parameter** | **Nilai** | **Sumber/Justifikasi** |
 |---------------|-----------|------------------------|
-| Kapasitas Produksi | 8 unit/hari | Time-motion study assembly |
+| Kapasitas Produksi | 25 unit/bulan | Time-motion study assembly part-time |
 | Defect Rate Target | < 2% | Industry standard untuk electronics assembly |
-| Inventory Days | 30 hari | Best practice untuk hardware startup |
+| Inventory Days | 30 hari | Just-in-time untuk minimize cash tied up |
 | Receivable Days | 30 hari | Credit term normal untuk B2B |
-| Payable Days | 15 hari | Negotiated term dengan supplier |
+| Payable Days | 15 hari | Negotiated term dengan supplier lokal |
+| Working Hours | 20 jam/minggu | Part-time sambil kuliah |
 
 ### Sumber Data Primer
 
